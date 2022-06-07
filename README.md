@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 14:23:57.555452  total: 9756 
+ > update time: 2022-06-07 17:29:39.207027  total: 9759 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-0796 explanation and researching vulnerability for term porject CENG325** : [arzuozkan/CVE-2020-0796](https://github.com/arzuozkan/CVE-2020-0796)  create time: 2022-06-07T17:16:16Z
+
+**Notes related to CVE-2022-30190** : [abhirules27/Follina](https://github.com/abhirules27/Follina)  create time: 2022-06-07T17:11:57Z
+
+**no description** : [Y000o/Confluence-CVE-2022-26134](https://github.com/Y000o/Confluence-CVE-2022-26134)  create time: 2022-06-07T16:42:36Z
 
 **Simple Honeypot for Atlassian Confluence (CVE-2022-26134)** : [SIFalcon/confluencePot](https://github.com/SIFalcon/confluencePot)  create time: 2022-06-06T15:44:24Z
 
