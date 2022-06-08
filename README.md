@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 09:25:08.975179  total: 9768 
+ > update time: 2022-06-08 10:28:25.388897  total: 9769 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947** : [YDH777/CVE-2022-22947-POC](https://github.com/YDH777/CVE-2022-22947-POC)  create time: 2022-06-08T09:52:23Z
 
 **Atlassian confluence unauthenticated ONGL injection remote code execution scanner (CVE-2022-26134).** : [redhuntlabs/ConfluentPwn](https://github.com/redhuntlabs/ConfluentPwn)  create time: 2022-06-08T04:53:31Z
 
