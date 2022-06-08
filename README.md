@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 02:02:05.301542  total: 9765 
+ > update time: 2022-06-08 08:33:54.033474  total: 9767 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [motherfucker12138/CVE-2020-0796_SMBGhost](https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost)  create time: 2022-06-08T07:52:26Z
+
+**no description** : [hou5/CVE-2022-26134](https://github.com/hou5/CVE-2022-26134)  create time: 2022-06-08T07:54:56Z
 
 **Exploit vulnerabilities and vulnerability prevention implementation** : [TrG-1999/DetectPacket-CVE-2017-8464](https://github.com/TrG-1999/DetectPacket-CVE-2017-8464)  create time: 2022-06-08T01:39:48Z
 
