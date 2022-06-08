@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 11:21:12.058708  total: 9770 
+ > update time: 2022-06-08 12:47:33.293504  total: 9771 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trhackno/CVE-2022-1609](https://github.com/Trhackno/CVE-2022-1609)  create time: 2022-06-08T11:28:08Z
 
 **Proof of Concept of CVE-2022-30190** : [Malwareman007/Deathnote](https://github.com/Malwareman007/Deathnote)  create time: 2022-06-08T10:58:23Z
 
