@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 08:33:54.033474  total: 9767 
+ > update time: 2022-06-08 09:25:08.975179  total: 9768 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atlassian confluence unauthenticated ONGL injection remote code execution scanner (CVE-2022-26134).** : [redhuntlabs/ConfluentPwn](https://github.com/redhuntlabs/ConfluentPwn)  create time: 2022-06-08T04:53:31Z
 
 **no description** : [motherfucker12138/CVE-2020-0796_SMBGhost](https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost)  create time: 2022-06-08T07:52:26Z
 
