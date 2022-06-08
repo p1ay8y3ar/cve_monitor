@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 10:28:25.388897  total: 9769 
+ > update time: 2022-06-08 11:21:12.058708  total: 9770 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept of CVE-2022-30190** : [Malwareman007/Deathnote](https://github.com/Malwareman007/Deathnote)  create time: 2022-06-08T10:58:23Z
 
 **Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947** : [YDH777/CVE-2022-22947-POC](https://github.com/YDH777/CVE-2022-22947-POC)  create time: 2022-06-08T09:52:23Z
 
