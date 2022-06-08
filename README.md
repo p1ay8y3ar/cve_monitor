@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 23:24:16.943718  total: 9761 
+ > update time: 2022-06-08 02:02:05.301542  total: 9765 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit vulnerabilities and vulnerability prevention implementation** : [TrG-1999/DetectPacket-CVE-2017-8464](https://github.com/TrG-1999/DetectPacket-CVE-2017-8464)  create time: 2022-06-08T01:39:48Z
+
+**Proof of concept of the Log4Shell vulnerability (CVE-2021-44228)** : [jaehnri/CVE-2021-44228](https://github.com/jaehnri/CVE-2021-44228)  create time: 2022-06-08T01:09:28Z
+
+**This project files demostrate a proof-of-concept of log4j vulnerability (CVE-2021-44228) on AWS using Terraform Infrastructure-as-a-code means.** : [moshuum/tf-log4j-aws-poc](https://github.com/moshuum/tf-log4j-aws-poc)  create time: 2022-06-07T13:30:37Z
+
+**PoC exploit for Tp-Link AX50 (CVE-2022-30075)** : [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075)  create time: 2022-06-07T23:26:47Z
 
 **Server to host/activate Follina payloads & generator of malicious Word documents exploiting the MS-MSDT protocol. (CVE-2022-30190)** : [dsibilio/follina-spring](https://github.com/dsibilio/follina-spring)  create time: 2022-06-07T22:46:23Z
 
