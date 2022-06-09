@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-08 20:25:54.438410  total: 9779 
+ > update time: 2022-06-09 03:38:31.874717  total: 9780 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134** : [cai-niao98/CVE-2022-26134](https://github.com/cai-niao98/CVE-2022-26134)  create time: 2022-06-09T02:11:58Z
 
 **Exploit modificado para el tito Eu** : [CronoX1/CVE-2021-4034](https://github.com/CronoX1/CVE-2021-4034)  create time: 2022-06-08T20:00:39Z
 
