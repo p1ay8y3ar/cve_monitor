@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-09 14:26:51.818949  total: 9785 
+ > update time: 2022-06-09 15:24:57.471652  total: 9786 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor** : [0xSojalSec/-CVE-2022-1609](https://github.com/0xSojalSec/-CVE-2022-1609)  create time: 2022-06-09T14:36:55Z
 
 **no description** : [SamuelGaudemer/POC_CVE-2020-11898](https://github.com/SamuelGaudemer/POC_CVE-2020-11898)  create time: 2022-06-09T13:42:01Z
 
