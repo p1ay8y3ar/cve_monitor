@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 06:29:53.877771  total: 9798 
+ > update time: 2022-06-10 09:24:18.902972  total: 9800 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [warmachine-57/CVE-2021-44582](https://github.com/warmachine-57/CVE-2021-44582)  create time: 2022-06-10T08:32:28Z
+
+**CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script** : [sunny-kathuria/exploit_CVE-2022-26134](https://github.com/sunny-kathuria/exploit_CVE-2022-26134)  create time: 2022-06-10T08:57:30Z
 
 **PoC for Sourcegraph Gitserver < 3.37.0 RCE** : [Altelus1/CVE-2022-23642](https://github.com/Altelus1/CVE-2022-23642)  create time: 2022-06-10T06:12:15Z
 
