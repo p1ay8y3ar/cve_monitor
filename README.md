@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 02:05:38.668619  total: 9793 
+ > update time: 2022-06-10 03:50:56.237489  total: 9795 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**hello** : [buff07/CVE-2022-31403](https://github.com/buff07/CVE-2022-31403)  create time: 2022-06-10T03:25:56Z
+
+**CVE-2022-31402** : [YavuzSahbaz/CVE-2022-31402](https://github.com/YavuzSahbaz/CVE-2022-31402)  create time: 2022-06-10T03:23:58Z
 
 **check CVE-2021-40438** : [gassara-kys/CVE-2021-40438](https://github.com/gassara-kys/CVE-2021-40438)  create time: 2022-06-10T00:46:58Z
 
