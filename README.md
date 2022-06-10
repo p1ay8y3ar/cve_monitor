@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 10:28:39.685740  total: 9801 
+ > update time: 2022-06-10 11:22:04.308887  total: 9802 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**NEW EXPLOIT FOR TP LINK** : [SAJIDAMINE/CVE-2022-30075](https://github.com/SAJIDAMINE/CVE-2022-30075)  create time: 2022-06-10T11:09:30Z
 
 **[CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection** : [murataydemir/CVE-2022-26134](https://github.com/murataydemir/CVE-2022-26134)  create time: 2022-06-10T09:52:22Z
 
