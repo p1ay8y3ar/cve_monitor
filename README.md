@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 04:34:24.663581  total: 9796 
+ > update time: 2022-06-10 05:22:57.487165  total: 9797 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-17240** : [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240)  create time: 2022-06-10T04:34:17Z
 
 **no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007)  create time: 2022-06-10T04:26:02Z
 
