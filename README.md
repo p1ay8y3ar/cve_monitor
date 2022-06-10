@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 16:38:26.517759  total: 9806 
+ > update time: 2022-06-10 18:32:09.449527  total: 9807 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2022-26134] Attlasian Confluence RCE** : [KeepWannabe/BotCon](https://github.com/KeepWannabe/BotCon)  create time: 2022-06-10T18:07:16Z
 
 **this is my simple article about CVE 2022-30190 (Follina) analysis. I use the lab from Letsdefend.** : [Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab](https://github.com/Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab)  create time: 2022-06-10T16:29:07Z
 
