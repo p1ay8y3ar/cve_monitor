@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-11 13:30:11.176556  total: 9811 
+ > update time: 2022-06-11 16:31:22.164860  total: 9812 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**proof of concept to CVE-2022-30190 (follina)** : [AmitNiz/follina_cve_2022-30190](https://github.com/AmitNiz/follina_cve_2022-30190)  create time: 2022-06-10T14:57:17Z
 
 **writeup and poc for [CVE-2022-26809]** : [scoobydoobi/CVE-2022-26809-RCE](https://github.com/scoobydoobi/CVE-2022-26809-RCE)  create time: 2022-06-11T13:22:45Z
 
