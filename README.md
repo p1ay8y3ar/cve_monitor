@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-10 18:32:09.449527  total: 9807 
+ > update time: 2022-06-11 07:22:37.517489  total: 9808 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-30075](https://github.com/trhacknon/CVE-2022-30075)  create time: 2022-06-11T07:04:55Z
 
 **[CVE-2022-26134] Attlasian Confluence RCE** : [KeepWannabe/BotCon](https://github.com/KeepWannabe/BotCon)  create time: 2022-06-10T18:07:16Z
 
