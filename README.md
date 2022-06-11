@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-11 11:21:27.386283  total: 9809 
+ > update time: 2022-06-11 13:30:11.176556  total: 9811 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**writeup and poc for [CVE-2022-26809]** : [scoobydoobi/CVE-2022-26809-RCE](https://github.com/scoobydoobi/CVE-2022-26809-RCE)  create time: 2022-06-11T13:22:45Z
+
+**CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina** : [safakTamsesCS/PicusSecurity4.Week.Repo](https://github.com/safakTamsesCS/PicusSecurity4.Week.Repo)  create time: 2022-06-10T12:09:37Z
 
 **Exploit for CVE-2017-12561: dbman Opcode 10012 Use-After-Free Remote Code Execution** : [whokilleddb/CVE-2017-12561-Exploit](https://github.com/whokilleddb/CVE-2017-12561-Exploit)  create time: 2022-06-11T11:00:42Z
 
