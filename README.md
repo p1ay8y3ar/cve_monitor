@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-12 19:20:03.408021  total: 9821 
+ > update time: 2022-06-12 20:25:36.569437  total: 9824 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)  create time: 2022-06-12T20:18:00Z
+
+**no description** : [seymanurmutlu/CVE-2022-24086-CVE-2022-24087](https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087)  create time: 2022-06-12T19:54:16Z
+
+**CVE 2022-21449** : [fundaergn/CVE-2022-21449](https://github.com/fundaergn/CVE-2022-21449)  create time: 2022-06-12T19:41:48Z
 
 **A OS Command Injection Vulnerability in the CGI Program of Zyxel** : [furkanzengin/CVE-2022-30525](https://github.com/furkanzengin/CVE-2022-30525)  create time: 2022-06-12T19:04:41Z
 
