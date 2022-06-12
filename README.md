@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-12 22:24:33.533141  total: 9827 
+ > update time: 2022-06-12 23:24:12.384689  total: 9828 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution via OGNL Injection** : [Chocapikk/CVE-2022-26134](https://github.com/Chocapikk/CVE-2022-26134)  create time: 2022-06-12T22:40:15Z
 
 **I'm trying** : [1SeaMy/CVE-2022-22954](https://github.com/1SeaMy/CVE-2022-22954)  create time: 2022-06-12T21:41:38Z
 
