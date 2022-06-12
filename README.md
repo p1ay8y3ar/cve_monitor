@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-11 19:19:53.561281  total: 9814 
+ > update time: 2022-06-12 03:51:36.122598  total: 9815 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Axios Redos (CVE-2021-3749) proof of concept** : [T-Guerrero/axios-redos](https://github.com/T-Guerrero/axios-redos)  create time: 2022-06-12T03:06:45Z
 
 **CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce** : [oturu/CVE-2022-24806-MASS-RCE](https://github.com/oturu/CVE-2022-24806-MASS-RCE)  create time: 2022-06-11T18:59:00Z
 
