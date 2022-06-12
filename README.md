@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-12 03:51:36.122598  total: 9815 
+ > update time: 2022-06-12 11:20:50.886347  total: 9816 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4Shell CVE-2021-44228 Demo** : [ra890927/Log4Shell-CVE-2121-44228-Demo](https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo)  create time: 2022-06-12T10:57:07Z
 
 **Axios Redos (CVE-2021-3749) proof of concept** : [T-Guerrero/axios-redos](https://github.com/T-Guerrero/axios-redos)  create time: 2022-06-12T03:06:45Z
 
