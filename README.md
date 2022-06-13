@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-13 16:38:18.404693  total: 9835 
+ > update time: 2022-06-13 17:28:59.773953  total: 9836 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [randorisec/CVE-2022-1972-infoleak-PoC](https://github.com/randorisec/CVE-2022-1972-infoleak-PoC)  create time: 2022-06-10T13:15:20Z
 
 **dvb-2022-MaksimsCvetkovs created by GitHub Classroom** : [MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs](https://github.com/MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs)  create time: 2022-05-15T08:02:39Z
 
