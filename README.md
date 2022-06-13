@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-13 22:25:20.455381  total: 9846 
+ > update time: 2022-06-13 23:24:34.525251  total: 9847 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection** : [Chocapikk/CVE-2022-26134](https://github.com/Chocapikk/CVE-2022-26134)  create time: 2022-06-13T23:01:39Z
 
 **Python file scanner created in 2021 scanning for known and potential vulns** : [XxToxicScriptxX/CVE-2022-30190](https://github.com/XxToxicScriptxX/CVE-2022-30190)  create time: 2022-06-13T21:32:45Z
 
