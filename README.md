@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-13 04:51:43.041296  total: 9830 
+ > update time: 2022-06-13 08:32:30.252857  total: 9831 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**4.9 Kernel Exploit for CVE-2020-27786** : [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)  create time: 2022-06-13T08:04:19Z
 
 **An Unofficial Patch Follina CVE-2022-30190 (patch)  by micrisoft Guidelines. for more details goto : https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/** : [SonicWave21/Follina-CVE-2022-30190-Unofficial-patch-](https://github.com/SonicWave21/Follina-CVE-2022-30190-Unofficial-patch-)  create time: 2022-06-13T04:20:02Z
 
