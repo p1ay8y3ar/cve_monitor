@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-13 19:21:04.301290  total: 9838 
+ > update time: 2022-06-13 20:28:50.590489  total: 9844 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Haraj Script 3.7 - Post Ads Authenticated Stored XSS** : [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)  create time: 2022-06-13T19:47:04Z
+
+**Haraj Script 3.7 - DM Section Authenticated Stored XSS** : [bigzooooz/CVE-2022-31300](https://github.com/bigzooooz/CVE-2022-31300)  create time: 2022-06-13T19:42:37Z
+
+**Haraj Script 3.7 - Reflected XSS** : [bigzooooz/CVE-2022-31299](https://github.com/bigzooooz/CVE-2022-31299)  create time: 2022-06-13T19:32:23Z
+
+**Haraj Script 3.7 - Authenticated Stored XSS** : [bigzooooz/CVE-2022-31298](https://github.com/bigzooooz/CVE-2022-31298)  create time: 2022-06-13T19:30:12Z
+
+**Haraj Script 3.7 - Reflected XSS** : [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)  create time: 2022-06-13T19:25:41Z
+
+**Online Discussion Forum Site 1.0 - Blind SQL Injection** : [bigzooooz/CVE-2022-31296](https://github.com/bigzooooz/CVE-2022-31296)  create time: 2022-06-13T19:21:04Z
 
 **no description** : [bigzooooz/CVE-2022-31295](https://github.com/bigzooooz/CVE-2022-31295)  create time: 2022-06-13T19:16:13Z
 
