@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-13 12:46:57.386903  total: 9832 
+ > update time: 2022-06-13 15:34:49.211682  total: 9834 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**To determine if an APK is vulnerable to CVE-2017-13156** : [M507/CVE-2017-13156](https://github.com/M507/CVE-2017-13156)  create time: 2022-06-10T23:32:29Z
+
+**Safenet Authentication Client Privilege Escalation - CVE-2021-42056** : [z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056)  create time: 2021-11-18T14:27:06Z
 
 **Missing Authentication on Critical component CVE-2021-38540** : [Captain-v-hook/PoC-for-CVE-2021-38540-](https://github.com/Captain-v-hook/PoC-for-CVE-2021-38540-)  create time: 2022-06-13T11:43:26Z
 
