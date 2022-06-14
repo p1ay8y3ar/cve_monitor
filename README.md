@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-14 02:14:43.857137  total: 9849 
+ > update time: 2022-06-14 09:27:31.162486  total: 9851 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits** : [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)  create time: 2022-06-14T08:34:11Z
+
+**no description** : [ernestak/CVE-2022-30190](https://github.com/ernestak/CVE-2022-30190)  create time: 2022-06-14T08:29:40Z
 
 **no description** : [l00neyhacker/CVE-2021-40650](https://github.com/l00neyhacker/CVE-2021-40650)  create time: 2022-06-13T23:43:19Z
 
