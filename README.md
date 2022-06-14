@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-14 20:27:46.217171  total: 9861 
+ > update time: 2022-06-14 22:22:44.244434  total: 9862 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22620: Use-after-free in Safari** : [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620)  create time: 2022-06-14T22:08:14Z
 
 **no description** : [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)  create time: 2022-06-14T19:32:35Z
 
