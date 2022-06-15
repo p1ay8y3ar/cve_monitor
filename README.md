@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-15 08:33:00.474648  total: 9866 
+ > update time: 2022-06-15 09:25:00.335929  total: 9867 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [notherealhazard/follina-CVE-2022-30190](https://github.com/notherealhazard/follina-CVE-2022-30190)  create time: 2022-06-15T09:13:05Z
 
 **some work for exploits cve-2020-2555\2883\14645 to attack ,draw lessons from Weblogic_cmd** : [minhangxiaohui/Weblogic_Coherence_exploit](https://github.com/minhangxiaohui/Weblogic_Coherence_exploit)  create time: 2022-06-15T08:28:52Z
 
