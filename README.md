@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-15 06:30:20.151992  total: 9865 
+ > update time: 2022-06-15 08:33:00.474648  total: 9866 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**some work for exploits cve-2020-2555\2883\14645 to attack ,draw lessons from Weblogic_cmd** : [minhangxiaohui/Weblogic_Coherence_exploit](https://github.com/minhangxiaohui/Weblogic_Coherence_exploit)  create time: 2022-06-15T08:28:52Z
 
 **This repository is developed to understand CVE-2019-6447** : [VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer](https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer)  create time: 2022-06-15T05:32:34Z
 
