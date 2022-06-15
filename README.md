@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-15 16:34:15.446466  total: 9872 
+ > update time: 2022-06-15 18:32:06.644201  total: 9873 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Reflected XSS on /link.cgi/ in Latest Webmin (1.994)** : [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)  create time: 2022-06-15T17:46:38Z
 
 **no description** : [Haniwa0x01/CVE-2022-30023](https://github.com/Haniwa0x01/CVE-2022-30023)  create time: 2022-06-15T16:10:49Z
 
