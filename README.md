@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-14 22:22:44.244434  total: 9862 
+ > update time: 2022-06-15 04:01:34.630402  total: 9864 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)  create time: 2022-06-15T03:49:05Z
+
+**Extract payload URLs from Follina (CVE-2022-30190) docx and rtf files** : [MalwareTech/FollinaExtractor](https://github.com/MalwareTech/FollinaExtractor)  create time: 2022-06-15T02:22:53Z
 
 **CVE-2022-22620: Use-after-free in Safari** : [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620)  create time: 2022-06-14T22:08:14Z
 
