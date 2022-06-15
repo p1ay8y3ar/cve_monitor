@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-15 18:32:06.644201  total: 9873 
+ > update time: 2022-06-15 23:25:06.049580  total: 9874 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**follina zero day vulnerability to help Microsoft to mitigate the attack** : [Cerebrovinny/follina-CVE-2022-30190](https://github.com/Cerebrovinny/follina-CVE-2022-30190)  create time: 2022-06-15T22:49:21Z
 
 **Reflected XSS on /link.cgi/ in Latest Webmin (1.994)** : [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)  create time: 2022-06-15T17:46:38Z
 
