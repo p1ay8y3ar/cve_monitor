@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-16 09:26:26.186938  total: 9877 
+ > update time: 2022-06-16 12:47:15.210072  total: 9878 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**关于漂亮鼠的那些精彩事迹（变态的油腻大叔）CVE-2022-6969、CVE-2022-0001** : [piaoliangshu/piaoliangshusb](https://github.com/piaoliangshu/piaoliangshusb)  create time: 2022-06-16T11:58:36Z
 
 **A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor** : [FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)  create time: 2022-06-16T08:52:28Z
 
