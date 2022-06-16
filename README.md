@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-16 12:47:15.210072  total: 9878 
+ > update time: 2022-06-16 15:26:58.755496  total: 9879 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26757 discovered by @nedwill** : [Dylbin/flow_divert](https://github.com/Dylbin/flow_divert)  create time: 2022-06-16T14:58:25Z
 
 **关于漂亮鼠的那些精彩事迹（变态的油腻大叔）CVE-2022-6969、CVE-2022-0001** : [piaoliangshu/piaoliangshusb](https://github.com/piaoliangshu/piaoliangshusb)  create time: 2022-06-16T11:58:36Z
 
