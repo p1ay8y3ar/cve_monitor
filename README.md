@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-17 17:25:38.802028  total: 9889 
+ > update time: 2022-06-17 20:25:45.505497  total: 9890 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)  create time: 2022-06-17T19:46:45Z
 
 **CVE-2021-43229 Walkthrough** : [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)  create time: 2022-06-07T13:32:17Z
 
