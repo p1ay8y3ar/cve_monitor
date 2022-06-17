@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-17 02:03:47.339889  total: 9885 
+ > update time: 2022-06-17 03:38:00.656178  total: 9886 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.** : [Exploitables/CVE-2010-4502](https://github.com/Exploitables/CVE-2010-4502)  create time: 2022-06-17T02:39:13Z
 
 **Windows Network File System Crash PoC** : [omair2084/CVE-2022-26937](https://github.com/omair2084/CVE-2022-26937)  create time: 2022-06-17T01:42:55Z
 
