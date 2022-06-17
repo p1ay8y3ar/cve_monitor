@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-17 03:38:00.656178  total: 9886 
+ > update time: 2022-06-17 12:47:32.778242  total: 9887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**unauthorized RcE exploit for webnin  < 1.920** : [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)  create time: 2022-06-17T12:04:38Z
 
 **Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.** : [Exploitables/CVE-2010-4502](https://github.com/Exploitables/CVE-2010-4502)  create time: 2022-06-17T02:39:13Z
 
