@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-18 02:04:05.049078  total: 9892 
+ > update time: 2022-06-18 09:22:12.045941  total: 9893 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Research project which I have started working on during my internship conducted at LIF, between April and June 2022. Our goal is to establish a machine learning model, which can predict efficiently if a CVE will be exploited in the wild or not.** : [rayan776/LIF_predict_cve_exploited](https://github.com/rayan776/LIF_predict_cve_exploited)  create time: 2022-06-18T08:59:05Z
 
 **no description** : [xCodeBossS/CodeBoss-CVE-2022](https://github.com/xCodeBossS/CodeBoss-CVE-2022)  create time: 2022-06-18T01:53:37Z
 
