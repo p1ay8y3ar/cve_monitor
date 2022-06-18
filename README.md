@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-18 15:24:34.954280  total: 9895 
+ > update time: 2022-06-18 19:21:20.368928  total: 9896 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [wlensinas/CVE-2002-1614](https://github.com/wlensinas/CVE-2002-1614)  create time: 2022-06-18T18:43:35Z
 
 **no description** : [PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main](https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main)  create time: 2022-06-18T14:42:04Z
 
