@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-19 09:24:09.966497  total: 9898 
+ > update time: 2022-06-19 12:39:43.037731  total: 9900 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System** : [zir0x00/CVE-2022-30136-MASS-RCE](https://github.com/zir0x00/CVE-2022-30136-MASS-RCE)  create time: 2022-06-19T12:13:41Z
+
+**MSDT 0-Day Mass Exploitation Tool** : [zir0x00/CVE-2022-30190-MASS-RCE](https://github.com/zir0x00/CVE-2022-30190-MASS-RCE)  create time: 2022-06-19T12:10:10Z
 
 **CVE-2021-40903** : [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)  create time: 2022-06-19T09:01:24Z
 
