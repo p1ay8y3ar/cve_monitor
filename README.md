@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-21 09:30:52.994481  total: 9909 
+ > update time: 2022-06-21 12:56:39.422481  total: 9912 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22980环境** : [kuron3k0/Spring-Data-Mongodb-Example](https://github.com/kuron3k0/Spring-Data-Mongodb-Example)  create time: 2022-06-21T12:02:00Z
+
+**[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)** : [kh4sh3i/CVE-2022-26134](https://github.com/kh4sh3i/CVE-2022-26134)  create time: 2022-06-21T11:49:48Z
+
+**Poc of CVE-2022-22980** : [trganda/CVE-2022-22980](https://github.com/trganda/CVE-2022-22980)  create time: 2022-06-21T11:39:13Z
 
 **no description** : [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test)  create time: 2022-06-21T09:07:10Z
 
