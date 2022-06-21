@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-21 02:05:41.483275  total: 9907 
+ > update time: 2022-06-21 08:40:39.808012  total: 9908 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-22005vcenter任意文件上传漏洞，可直接上传冰蝎** : [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)  create time: 2022-06-21T07:36:01Z
 
 **Windows Network File System Crash PoC** : [i6c/CVE-2022-26937](https://github.com/i6c/CVE-2022-26937)  create time: 2022-06-21T00:12:32Z
 
