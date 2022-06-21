@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-21 12:56:39.422481  total: 9912 
+ > update time: 2022-06-21 13:49:20.326967  total: 9913 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-111111测试** : [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)  create time: 2022-06-21T13:35:55Z
 
 **CVE-2022-22980环境** : [kuron3k0/Spring-Data-Mongodb-Example](https://github.com/kuron3k0/Spring-Data-Mongodb-Example)  create time: 2022-06-21T12:02:00Z
 
