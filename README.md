@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-22 04:00:13.217655  total: 9914 
+ > update time: 2022-06-22 05:27:46.122385  total: 9915 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**(1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) 0x8086200B, (c) 0x8086200F, or (d) 0x80862007 IOCTL call.** : [Exploitables/CVE-2015-2291](https://github.com/Exploitables/CVE-2015-2291)  create time: 2022-06-22T05:22:57Z
 
 **no description** : [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)  create time: 2022-06-22T03:53:52Z
 
