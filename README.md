@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-22 05:27:46.122385  total: 9915 
+ > update time: 2022-06-22 07:23:56.183793  total: 9917 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting** : [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)  create time: 2022-06-22T07:10:53Z
+
+**Spring Data MongoDB SpEL表达式注入漏洞(CVE-2022-22980) Demo环境** : [li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)  create time: 2022-06-22T06:27:43Z
 
 **(1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) 0x8086200B, (c) 0x8086200F, or (d) 0x80862007 IOCTL call.** : [Exploitables/CVE-2015-2291](https://github.com/Exploitables/CVE-2015-2291)  create time: 2022-06-22T05:22:57Z
 
