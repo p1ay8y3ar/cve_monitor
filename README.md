@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-22 10:30:07.488778  total: 9920 
+ > update time: 2022-06-22 21:23:13.068643  total: 9921 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass Exploit for CVE 2022-29464 on Carbon** : [electr0lulz/Mass-exploit-CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)  create time: 2022-06-22T20:58:33Z
 
 **CVE-2022-9673** : [CVE-2099-2222/CVE-2022-9673](https://github.com/CVE-2099-2222/CVE-2022-9673)  create time: 2022-06-22T10:09:42Z
 
