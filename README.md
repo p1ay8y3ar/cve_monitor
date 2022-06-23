@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-23 15:29:53.095137  total: 9925 
+ > update time: 2022-06-23 23:24:43.517579  total: 9926 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tested in HackTheBox - Shocker (Easy) CVE-2014-6271** : [Gurguii/shellshock.sh](https://github.com/Gurguii/shellshock.sh)  create time: 2022-06-23T19:42:03Z
 
 **Admin account registration in Online Student Rate System** : [StefanDorresteijn/CVE-2021-39409](https://github.com/StefanDorresteijn/CVE-2021-39409)  create time: 2021-08-17T16:48:53Z
 
