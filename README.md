@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-23 07:24:18.279753  total: 9922 
+ > update time: 2022-06-23 15:29:53.095137  total: 9925 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Admin account registration in Online Student Rate System** : [StefanDorresteijn/CVE-2021-39409](https://github.com/StefanDorresteijn/CVE-2021-39409)  create time: 2021-08-17T16:48:53Z
+
+**XSS vulnerability in Online Student Rate System1.0** : [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)  create time: 2021-08-17T16:45:06Z
+
+**no description** : [PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)  create time: 2022-06-22T14:01:50Z
 
 **Exploit for zerologon cve-2020-1472** : [lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)  create time: 2022-06-23T07:18:17Z
 
