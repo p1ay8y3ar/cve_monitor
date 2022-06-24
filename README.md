@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-24 02:09:24.614963  total: 9927 
+ > update time: 2022-06-24 04:04:51.573501  total: 9928 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cisco ASA XSS CVE-2020-3580** : [cruxN3T/CVE-2020-3580](https://github.com/cruxN3T/CVE-2020-3580)  create time: 2022-06-24T02:16:05Z
 
 **Mass-Exploit-CVE-2022-1388** : [electr0lulz/Mass-CVE-2022-1388](https://github.com/electr0lulz/Mass-CVE-2022-1388)  create time: 2022-06-24T00:58:37Z
 
