@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-24 04:04:51.573501  total: 9928 
+ > update time: 2022-06-24 09:24:51.193022  total: 9929 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit)** : [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)  create time: 2022-06-24T09:01:39Z
 
 **Cisco ASA XSS CVE-2020-3580** : [cruxN3T/CVE-2020-3580](https://github.com/cruxN3T/CVE-2020-3580)  create time: 2022-06-24T02:16:05Z
 
