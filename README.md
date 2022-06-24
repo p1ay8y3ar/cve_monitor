@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-23 23:24:43.517579  total: 9926 
+ > update time: 2022-06-24 02:09:24.614963  total: 9927 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass-Exploit-CVE-2022-1388** : [electr0lulz/Mass-CVE-2022-1388](https://github.com/electr0lulz/Mass-CVE-2022-1388)  create time: 2022-06-24T00:58:37Z
 
 **Tested in HackTheBox - Shocker (Easy) CVE-2014-6271** : [Gurguii/shellshock.sh](https://github.com/Gurguii/shellshock.sh)  create time: 2022-06-23T19:42:03Z
 
