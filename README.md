@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-24 18:32:32.175785  total: 9933 
+ > update time: 2022-06-25 05:22:32.692641  total: 9934 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Nacos下Spring-Cloud-Gateway CVE-2022-22947利用** : [B0rn2d/Spring-Cloud-Gateway-Nacos](https://github.com/B0rn2d/Spring-Cloud-Gateway-Nacos)  create time: 2022-06-25T05:02:06Z
 
 **CVE-2021-26855** : [TheDudeD6/ExchangeSmash](https://github.com/TheDudeD6/ExchangeSmash)  create time: 2022-06-24T17:42:28Z
 
