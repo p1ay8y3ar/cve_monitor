@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-25 07:22:43.408683  total: 9936 
+ > update time: 2022-06-25 08:29:45.409030  total: 9937 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System** : [oturu/Cve-2022-30136-RCE](https://github.com/oturu/Cve-2022-30136-RCE)  create time: 2022-06-25T07:28:34Z
 
 **WaterDragon:用GithubAction实现代理功能。红队,cve,代理池,隐匿,攻防,对抗，hackone,src,proxy,CVE-2020,CVE-2021,CVE-2022** : [sh3d0ww01f/WaterDragon](https://github.com/sh3d0ww01f/WaterDragon)  create time: 2022-06-20T15:38:53Z
 
