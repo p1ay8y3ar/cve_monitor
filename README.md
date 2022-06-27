@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-27 15:29:50.559212  total: 9947 
+ > update time: 2022-06-27 16:39:07.819120  total: 9948 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**免杀，攻击，钓鱼，蓝队，木马** : [huihuo123/CVE2022-0111-](https://github.com/huihuo123/CVE2022-0111-)  create time: 2022-06-27T15:39:52Z
 
 **免杀，木马，攻击，防守** : [huihuo123/CVE20222-](https://github.com/huihuo123/CVE20222-)  create time: 2022-06-27T15:19:20Z
 
