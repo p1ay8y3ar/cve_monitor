@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-27 08:33:22.228357  total: 9945 
+ > update time: 2022-06-27 15:29:50.559212  total: 9947 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**免杀，木马，攻击，防守** : [huihuo123/CVE20222-](https://github.com/huihuo123/CVE20222-)  create time: 2022-06-27T15:19:20Z
+
+**no description** : [huihuo123/cve2022-0001-](https://github.com/huihuo123/cve2022-0001-)  create time: 2022-06-27T14:46:20Z
 
 **ProxyLogon (CVE-2021-26855+CVE-2021-27065) Exchange Server RCE (SSRF->GetWebShell)** : [kh4sh3i/ProxyLogon](https://github.com/kh4sh3i/ProxyLogon)  create time: 2022-06-27T08:07:48Z
 
