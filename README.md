@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 17:32:35.502076  total: 9958 
+ > update time: 2022-06-28 19:20:56.576670  total: 9959 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)  create time: 2022-06-05T17:56:29Z
 
 **Old exploit for Issue 1076708** : [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)  create time: 2022-06-28T16:58:51Z
 
