@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 19:20:56.576670  total: 9959 
+ > update time: 2022-06-28 20:27:31.274481  total: 9960 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**🕵️ CVE-2019-9670 Exploit | XXE in Zimbra Collaboration 8.7.X < 8.7.11p10** : [oppsec/arbimz](https://github.com/oppsec/arbimz)  create time: 2022-06-28T20:01:11Z
 
 **no description** : [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)  create time: 2022-06-05T17:56:29Z
 
