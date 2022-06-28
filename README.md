@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 09:25:38.521785  total: 9955 
+ > update time: 2022-06-28 10:28:26.685049  total: 9956 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dirty Cow exploit - CVE-2016-5195** : [flux10n/dirtycow](https://github.com/flux10n/dirtycow)  create time: 2022-06-28T10:08:43Z
 
 **工控安全，溯源** : [Kvi74/CVE-2022-8475](https://github.com/Kvi74/CVE-2022-8475)  create time: 2022-06-28T09:00:55Z
 
