@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 13:48:51.166604  total: 9968 
+ > update time: 2022-06-29 15:55:50.499844  total: 9969 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation** : [huangyutange0uywlcn/HyperSine](https://github.com/huangyutange0uywlcn/HyperSine)  create time: 2022-06-29T15:33:05Z
 
 **PoC for ManageEngine ADAudit Plus CVE-2022-28219** : [horizon3ai/CVE-2022-28219](https://github.com/horizon3ai/CVE-2022-28219)  create time: 2022-06-26T15:48:27Z
 
