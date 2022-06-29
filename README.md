@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 23:24:46.491330  total: 9961 
+ > update time: 2022-06-29 07:24:54.512485  total: 9963 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)  create time: 2022-06-29T06:51:36Z
+
+**[CVE-2022-22980] Spring Data MongoDB SpEL Expression injection** : [murataydemir/CVE-2022-22980](https://github.com/murataydemir/CVE-2022-22980)  create time: 2022-06-28T21:42:35Z
 
 **Apache Shiro CVE-2022-32532** : [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)  create time: 2022-06-28T22:38:30Z
 
