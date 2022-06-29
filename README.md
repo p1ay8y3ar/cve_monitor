@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 12:50:16.787052  total: 9967 
+ > update time: 2022-06-29 13:48:51.166604  total: 9968 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for ManageEngine ADAudit Plus CVE-2022-28219** : [horizon3ai/CVE-2022-28219](https://github.com/horizon3ai/CVE-2022-28219)  create time: 2022-06-26T15:48:27Z
 
 **CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability** : [kh4sh3i/ProxyShell](https://github.com/kh4sh3i/ProxyShell)  create time: 2022-06-29T12:37:31Z
 
