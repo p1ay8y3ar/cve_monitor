@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 13:44:12.730084  total: 9976 
+ > update time: 2022-06-30 14:23:51.685117  total: 9978 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)  create time: 2022-06-30T13:07:55Z
+
+**Apache Tomcat DoS (CVE-2022-29885) Exploit** : [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)  create time: 2022-04-30T02:30:00Z
 
 **Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated)** : [cheshireca7/CVE-2022-28117](https://github.com/cheshireca7/CVE-2022-28117)  create time: 2022-04-06T13:27:48Z
 
