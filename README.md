@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 06:31:47.783853  total: 9973 
+ > update time: 2022-06-30 07:22:58.351103  total: 9974 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**GitLab-Graphql-CVE-2020-26413 POC** : [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)  create time: 2022-06-30T06:29:28Z
 
 **GitLab Graphql邮箱信息泄露漏洞 CVE-2020-26413 POC** : [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)  create time: 2022-06-30T06:28:27Z
 
