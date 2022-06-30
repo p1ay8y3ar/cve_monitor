@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 11:22:02.001193  total: 9975 
+ > update time: 2022-06-30 13:44:12.730084  total: 9976 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated)** : [cheshireca7/CVE-2022-28117](https://github.com/cheshireca7/CVE-2022-28117)  create time: 2022-04-06T13:27:48Z
 
 **no description** : [vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)  create time: 2022-06-30T10:44:23Z
 
