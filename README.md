@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 20:27:48.725178  total: 9981 
+ > update time: 2022-06-30 21:24:03.155006  total: 9982 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there's no macro support) -Startup -base64 encode** : [notSMods/Hta-Exploit-Downloader-Malware-Builder](https://github.com/notSMods/Hta-Exploit-Downloader-Malware-Builder)  create time: 2022-06-30T19:56:40Z
 
 **no description** : [notSMods/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/notSMods/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-06-30T20:06:10Z
 
