@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 21:24:03.155006  total: 9982 
+ > update time: 2022-07-01 09:25:59.570724  total: 9983 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Tomcat DoS (CVE-2022-29885) Exploit** : [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)  create time: 2022-07-01T09:02:10Z
 
 **Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there's no macro support) -Startup -base64 encode** : [notSMods/Hta-Exploit-Downloader-Malware-Builder](https://github.com/notSMods/Hta-Exploit-Downloader-Malware-Builder)  create time: 2022-06-30T19:56:40Z
 
