@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-01 15:28:24.352375  total: 9986 
+ > update time: 2022-07-01 16:39:12.376600  total: 9987 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)  create time: 2022-07-01T15:43:26Z
 
 **CVE-2018-6574: go get RCE PentesterLab** : [Logan-Elliott/CVE-2018-6574-go-get-RCE](https://github.com/Logan-Elliott/CVE-2018-6574-go-get-RCE)  create time: 2022-07-01T14:41:47Z
 
