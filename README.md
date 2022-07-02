@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-02 16:32:37.302818  total: 9993 
+ > update time: 2022-07-02 22:24:28.370828  total: 9994 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication** : [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)  create time: 2022-07-02T22:04:29Z
 
 **Ruby反序列化命令执行漏洞（CVE-2019-5420）-vulfocus通关版** : [laffray/ruby-RCE-CVE-2019-5420-](https://github.com/laffray/ruby-RCE-CVE-2019-5420-)  create time: 2022-07-02T15:44:03Z
 
