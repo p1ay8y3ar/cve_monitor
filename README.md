@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-02 22:24:28.370828  total: 9994 
+ > update time: 2022-07-03 06:30:04.760138  total: 9995 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The above investigation of the ES file browser security weakness allows us to see the issue in its  entirety** : [Osuni-99/CVE-2019-6447](https://github.com/Osuni-99/CVE-2019-6447)  create time: 2022-07-03T05:57:14Z
 
 **PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication** : [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)  create time: 2022-07-02T22:04:29Z
 
