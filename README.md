@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-03 06:30:04.760138  total: 9995 
+ > update time: 2022-07-04 02:24:37.824228  total: 9996 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24706 POC exploit** : [superzerosec/CVE-2022-24706](https://github.com/superzerosec/CVE-2022-24706)  create time: 2022-07-04T02:06:27Z
 
 **The above investigation of the ES file browser security weakness allows us to see the issue in its  entirety** : [Osuni-99/CVE-2019-6447](https://github.com/Osuni-99/CVE-2019-6447)  create time: 2022-07-03T05:57:14Z
 
