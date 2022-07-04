@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-04 13:44:46.456153  total: 10003 
+ > update time: 2022-07-04 14:23:02.736719  total: 10004 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fuzzing, visualization and exploit of sudo vulnerability CVE-2021-3156** : [FrancescoMarchiori/CVE-2021-3156](https://github.com/FrancescoMarchiori/CVE-2021-3156)  create time: 2022-07-04T13:55:24Z
 
 **Apache Solr RCE检测脚本 (CVE-2017-12629)** : [77Huan/-Wiki](https://github.com/77Huan/-Wiki)  create time: 2022-07-04T13:14:36Z
 
