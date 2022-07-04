@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-04 15:27:44.692117  total: 10005 
+ > update time: 2022-07-04 20:26:23.523756  total: 10006 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [MuallimNaci/CVE-2022-30887](https://github.com/MuallimNaci/CVE-2022-30887)  create time: 2022-07-04T19:24:56Z
 
 **Atlassian, CVE-2022-26134  An interactive lab showcasing the Confluence Server and Data Center un-authenticated RCE vulnerability.** : [r1skkam/TryHackMe-Atlassian-CVE-2022-26134](https://github.com/r1skkam/TryHackMe-Atlassian-CVE-2022-26134)  create time: 2022-07-04T15:00:21Z
 
