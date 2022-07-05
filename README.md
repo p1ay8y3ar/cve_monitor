@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-05 07:24:12.817052  total: 10014 
+ > update time: 2022-07-05 08:31:19.564251  total: 10015 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-29464 Exploit** : [Pasch0/WSO2RCE](https://github.com/Pasch0/WSO2RCE)  create time: 2022-07-05T08:27:04Z
 
 **no description** : [Debajyoti0-0/CVE-2022-26134](https://github.com/Debajyoti0-0/CVE-2022-26134)  create time: 2022-07-05T07:04:50Z
 
