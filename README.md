@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-06 08:31:49.788576  total: 10028 
+ > update time: 2022-07-06 09:27:19.081221  total: 10029 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple PoC-checker for CVE-2022-31749 by 1vere$k** : [iveresk/cve-2022-31749](https://github.com/iveresk/cve-2022-31749)  create time: 2022-07-06T09:15:49Z
 
 **no description** : [nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-20133](https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-20133)  create time: 2022-07-06T07:33:51Z
 
