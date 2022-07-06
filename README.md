@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-06 06:31:21.207632  total: 10026 
+ > update time: 2022-07-06 07:24:02.386826  total: 10027 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138)  create time: 2022-07-06T06:55:45Z
 
 **CVE-2019-1405 CVE-2019-1322** : [signfind/COMahawk](https://github.com/signfind/COMahawk)  create time: 2022-07-06T05:42:14Z
 
