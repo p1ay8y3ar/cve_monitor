@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-07 15:28:18.455274  total: 10040 
+ > update time: 2022-07-07 16:41:17.235187  total: 10041 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code** : [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)  create time: 2022-07-07T15:33:07Z
 
 **BIGIP CVE-2020-5902 Exploit POC and automation scanning vulnerability** : [z3n70/CVE-2020-5902](https://github.com/z3n70/CVE-2020-5902)  create time: 2022-07-07T14:48:08Z
 
