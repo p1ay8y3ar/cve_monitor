@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-07 14:34:37.866457  total: 10039 
+ > update time: 2022-07-07 15:28:18.455274  total: 10040 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**BIGIP CVE-2020-5902 Exploit POC and automation scanning vulnerability** : [z3n70/CVE-2020-5902](https://github.com/z3n70/CVE-2020-5902)  create time: 2022-07-07T14:48:08Z
 
 **CVE-2022-0847 SUID Shell Backdoor** : [notl0cal/dpipe](https://github.com/notl0cal/dpipe)  create time: 2022-03-14T03:58:21Z
 
