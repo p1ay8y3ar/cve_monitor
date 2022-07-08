@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-08 02:16:06.485531  total: 10042 
+ > update time: 2022-07-08 05:31:41.163296  total: 10044 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Group Timeline module.** : [bypazs/CVE-2022-34962](https://github.com/bypazs/CVE-2022-34962)  create time: 2022-06-28T13:18:56Z
+
+**OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Users Timeline module.** : [bypazs/CVE-2022-34961](https://github.com/bypazs/CVE-2022-34961)  create time: 2022-06-28T13:08:40Z
 
 **no description** : [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)  create time: 2022-03-04T12:03:33Z
 
