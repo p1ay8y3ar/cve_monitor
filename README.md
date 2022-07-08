@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-08 10:29:02.944174  total: 10046 
+ > update time: 2022-07-08 12:48:56.918296  total: 10047 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**confluence rce** : [coskper-papa/CVE-2022-26134](https://github.com/coskper-papa/CVE-2022-26134)  create time: 2022-07-08T12:24:21Z
 
 **CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞** : [tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE)  create time: 2022-07-08T09:25:42Z
 
