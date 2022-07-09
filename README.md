@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-09 21:23:08.522179  total: 10054 
+ > update time: 2022-07-09 22:25:05.974995  total: 10055 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fastjson exploit** : [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)  create time: 2022-07-09T21:56:10Z
 
 **Attacks against QUIC (CVE 2022 30591)** : [efchatz/QUIC-attacks](https://github.com/efchatz/QUIC-attacks)  create time: 2022-06-30T18:25:23Z
 
