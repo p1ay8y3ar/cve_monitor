@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-12 15:28:12.477017  total: 10073 
+ > update time: 2022-07-12 17:28:03.669511  total: 10074 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736](https://github.com/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736)  create time: 2022-07-12T17:04:51Z
 
 **no description** : [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)  create time: 2022-07-12T14:34:48Z
 
