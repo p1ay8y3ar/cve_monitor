@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-11 12:50:46.950432  total: 10066 
+ > update time: 2022-07-12 05:42:05.712083  total: 10068 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a python script that can be used with Shodan CLI to mass hunting Confluence Servers vulnerable to CVE-2022-26134** : [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit)  create time: 2022-07-12T05:34:09Z
+
+**H3C_SSL_VPN_XSS(Reflected XSS) CVE-2022-35416** : [safe3s/CVE-2022-35416](https://github.com/safe3s/CVE-2022-35416)  create time: 2022-07-12T04:35:49Z
 
 **PoC verification of Django vulnerability (CVE-2022-34265)** : [NopFault/CVE-2022-34265](https://github.com/NopFault/CVE-2022-34265)  create time: 2022-07-11T11:58:09Z
 
