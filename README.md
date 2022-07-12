@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-12 08:33:09.251282  total: 10069 
+ > update time: 2022-07-12 13:00:58.521841  total: 10072 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Lubnan-Skech/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/Lubnan-Skech/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-07-12T12:38:46Z
+
+**no description** : [Lubnan-Skech/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/Lubnan-Skech/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-07-12T12:30:43Z
+
+**no description** : [Lubnan-Skech/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/Lubnan-Skech/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-07-12T12:30:21Z
 
 **no description** : [kmahyyg/CVE-2022-22947](https://github.com/kmahyyg/CVE-2022-22947)  create time: 2022-07-12T08:20:02Z
 
