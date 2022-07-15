@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-15 10:29:35.913925  total: 10087 
+ > update time: 2022-07-15 12:53:41.936568  total: 10088 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for a security: potential path traversal with specific configs, if `mod_dirlisting` were enabled, which is not the default, this would result in listing the contents of the directory above the alias..** : [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)  create time: 2022-07-15T11:51:13Z
 
 **Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server.** : [iveresk/cve-2022-26134](https://github.com/iveresk/cve-2022-26134)  create time: 2022-07-15T10:06:15Z
 
