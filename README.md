@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-16 02:10:59.750923  total: 10091 
+ > update time: 2022-07-16 11:22:15.980663  total: 10093 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zoo Management System 1.0 - Reflected Cross-Site-Scripting (XSS)** : [AngeloPioAmirante/CVE-2022-31897](https://github.com/AngeloPioAmirante/CVE-2022-31897)  create time: 2022-07-16T10:55:32Z
+
+**Zoo Management System 1.0 - Stored Cross-Site-Scripting (XSS)** : [AngeloPioAmirante/CVE-2022-33075](https://github.com/AngeloPioAmirante/CVE-2022-33075)  create time: 2022-07-16T10:44:52Z
 
 **cve-2022-29455 elementor wordpress plugin xss exploit** : [alyrezo/cve-2022-29455](https://github.com/alyrezo/cve-2022-29455)  create time: 2022-07-16T01:29:13Z
 
