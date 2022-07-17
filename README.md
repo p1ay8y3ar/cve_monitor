@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-17 12:42:36.429692  total: 10097 
+ > update time: 2022-07-17 18:29:15.335720  total: 10098 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**nDay exploit for CVE-2021-27239** : [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)  create time: 2022-07-17T18:03:15Z
 
 **CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability** : [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)  create time: 2022-07-17T11:25:12Z
 
