@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-18 17:32:44.842994  total: 10109 
+ > update time: 2022-07-18 18:30:27.941394  total: 10110 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Verifed Proof of Concept on CVE-2022-24086 RCE** : [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)  create time: 2022-07-18T17:49:03Z
 
 **This is a revised version of MITRE's CICAT, made for use with modern (2022) ATT&CK and CVE data.** : [ShayanNGC/MITRE-CICAT-Revised](https://github.com/ShayanNGC/MITRE-CICAT-Revised)  create time: 2022-07-18T17:14:15Z
 
