@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-17 20:25:56.516126  total: 10099 
+ > update time: 2022-07-18 05:37:43.494829  total: 10100 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.** : [Shehzadcyber/CVE-2017-7529](https://github.com/Shehzadcyber/CVE-2017-7529)  create time: 2022-07-18T05:14:55Z
 
 **no description** : [trhacknon/CVE-2022-32119](https://github.com/trhacknon/CVE-2022-32119)  create time: 2022-07-17T19:20:51Z
 
