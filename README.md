@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-18 18:30:27.941394  total: 10110 
+ > update time: 2022-07-18 21:22:56.617780  total: 10111 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Execution attacks are one of the most frequent methods employed by cybercriminals to compromise susceptible computers. In the previous year, a serious zero-day vulnerability was identified in Log4j, a java program used by developers for debugging and application modification loggings. This is also a significant vulnerability that affects the so-called Ghidra reverse engineering tool.** : [tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)  create time: 2022-07-18T20:33:10Z
 
 **Verifed Proof of Concept on CVE-2022-24086 RCE** : [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)  create time: 2022-07-18T17:49:03Z
 
