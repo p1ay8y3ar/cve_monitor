@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 19:21:04.302547  total: 10119 
+ > update time: 2022-07-19 20:27:34.619600  total: 10120 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**samAccountName Spoofing (CVE-2021–42278) & Domain Controller Impersonation (CVE-2021–42287)** : [IAMinZoho/sAMAccountName-Spoofing](https://github.com/IAMinZoho/sAMAccountName-Spoofing)  create time: 2022-07-19T19:36:14Z
 
 **This script will remediate the BootHole bug identified in CVE-2020-25632 and/or CVE-2021-20233.** : [pauljrowland/BootHoleFix](https://github.com/pauljrowland/BootHoleFix)  create time: 2022-07-19T18:56:51Z
 
