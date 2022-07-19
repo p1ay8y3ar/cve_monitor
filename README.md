@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 07:24:49.146086  total: 10114 
+ > update time: 2022-07-19 08:31:27.225926  total: 10115 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**:page_with_curl: A report about CVE-2021-44228** : [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)  create time: 2022-07-19T08:03:05Z
 
 **CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.** : [cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)  create time: 2022-07-19T07:13:28Z
 
