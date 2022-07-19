@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 06:32:19.638919  total: 10112 
+ > update time: 2022-07-19 07:24:49.146086  total: 10114 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.** : [cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)  create time: 2022-07-19T07:13:28Z
+
+**CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime** : [cybersecurityresearcher/CVE-2022-26809-RCE-POC](https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC)  create time: 2022-07-19T07:18:45Z
 
 **Unquoted Service Path Asus GameSdk** : [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)  create time: 2022-07-18T14:06:58Z
 
