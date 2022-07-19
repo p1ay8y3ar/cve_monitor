@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 13:48:03.234272  total: 10116 
+ > update time: 2022-07-19 14:29:00.078220  total: 10117 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [abhyanandsharma311099/cve2021-41073](https://github.com/abhyanandsharma311099/cve2021-41073)  create time: 2022-07-19T14:00:51Z
 
 **CVE–2019–8985 Netis WF2411 RCE** : [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)  create time: 2022-07-19T13:30:07Z
 
