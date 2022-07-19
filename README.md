@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 14:29:00.078220  total: 10117 
+ > update time: 2022-07-19 17:35:34.967313  total: 10118 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-29455 elementor wordpress plugin xss exploit** : [alirezasalehizadeh/cve-2022-29455](https://github.com/alirezasalehizadeh/cve-2022-29455)  create time: 2022-07-16T15:29:26Z
 
 **no description** : [abhyanandsharma311099/cve2021-41073](https://github.com/abhyanandsharma311099/cve2021-41073)  create time: 2022-07-19T14:00:51Z
 
