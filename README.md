@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-20 05:31:21.273260  total: 10124 
+ > update time: 2022-07-20 07:23:52.668240  total: 10125 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2017-7921-EXP Hikvision camera** : [201646613/CVE-2017-7921](https://github.com/201646613/CVE-2017-7921)  create time: 2022-07-20T07:07:07Z
 
 **no description** : [Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33](https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33)  create time: 2022-07-20T04:04:11Z
 
