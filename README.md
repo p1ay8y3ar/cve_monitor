@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-20 21:22:12.455755  total: 10132 
+ > update time: 2022-07-20 23:26:26.879375  total: 10133 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [AkbarTrilaksana/cve-2022-33891](https://github.com/AkbarTrilaksana/cve-2022-33891)  create time: 2022-07-20T22:52:43Z
 
 **The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523** : [krdsploit/MSFu-Extentions-](https://github.com/krdsploit/MSFu-Extentions-)  create time: 2022-07-20T21:02:41Z
 
