@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-20 08:33:59.968322  total: 10126 
+ > update time: 2022-07-20 10:29:04.783389  total: 10128 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-17621 DLink_RCE** : [Ler2sq/CVE-2019-17621](https://github.com/Ler2sq/CVE-2019-17621)  create time: 2022-07-20T09:39:36Z
+
+**vuln ejs 3.1.6 docker** : [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)  create time: 2022-07-20T10:10:01Z
 
 **CVE-2007-2447 samba remote code execution** : [mr-l0n3lly/CVE-2007-2447](https://github.com/mr-l0n3lly/CVE-2007-2447)  create time: 2022-07-20T08:11:11Z
 
