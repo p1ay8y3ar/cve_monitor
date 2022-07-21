@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-21 08:32:15.337513  total: 10135 
+ > update time: 2022-07-21 10:30:06.888622  total: 10136 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atlassian Questions Hardcoded Password (CVE-2022-26138)** : [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)  create time: 2022-07-21T09:28:06Z
 
 **Detection and Remdiation of  the Follina MSDT Vulnerability (CVE-2022-30190)** : [EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-](https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-)  create time: 2022-07-21T06:49:44Z
 
