@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-21 07:24:16.689145  total: 10134 
+ > update time: 2022-07-21 08:32:15.337513  total: 10135 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detection and Remdiation of  the Follina MSDT Vulnerability (CVE-2022-30190)** : [EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-](https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-)  create time: 2022-07-21T06:49:44Z
 
 **no description** : [2ntt/CVE-2022-30333](https://github.com/2ntt/CVE-2022-30333)  create time: 2022-07-21T06:54:26Z
 
