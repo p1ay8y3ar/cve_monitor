@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-21 12:52:36.580905  total: 10137 
+ > update time: 2022-07-21 15:28:53.058315  total: 10138 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [rahul-masal/ubuntu22.04-cve2022](https://github.com/rahul-masal/ubuntu22.04-cve2022)  create time: 2022-07-21T14:47:55Z
 
 **no description** : [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137)  create time: 2022-07-21T11:57:43Z
 
