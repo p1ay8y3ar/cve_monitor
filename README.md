@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-22 18:32:43.046407  total: 10150 
+ > update time: 2022-07-22 22:25:20.659879  total: 10151 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The New Exploit there no available on metasploit framework !** : [krdsploit/CVE-2002-2420](https://github.com/krdsploit/CVE-2002-2420)  create time: 2022-07-22T21:33:26Z
 
 **no description** : [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)  create time: 2022-07-22T17:37:27Z
 
