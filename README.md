@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-26 05:46:16.465384  total: 10168 
+ > update time: 2022-07-26 06:33:22.487845  total: 10169 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection)** : [drkbcn/lblfixer_cve_2022_31181](https://github.com/drkbcn/lblfixer_cve_2022_31181)  create time: 2022-07-26T05:55:53Z
 
 **CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root.** : [Vulnmachines/OMIGOD_cve-2021-38647](https://github.com/Vulnmachines/OMIGOD_cve-2021-38647)  create time: 2021-09-24T10:53:52Z
 
