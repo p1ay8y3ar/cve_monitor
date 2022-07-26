@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-26 08:31:03.132321  total: 10170 
+ > update time: 2022-07-26 09:24:50.450433  total: 10171 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A demo for cve-2019-12735** : [st9007a/CVE-2019-12735](https://github.com/st9007a/CVE-2019-12735)  create time: 2022-07-26T08:45:21Z
 
 **WebMin Versions <= 1.920 [CVE-2019-15107] RCE PoC** : [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)  create time: 2022-07-26T07:38:03Z
 
