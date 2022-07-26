@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-26 06:33:22.487845  total: 10169 
+ > update time: 2022-07-26 08:31:03.132321  total: 10170 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WebMin Versions <= 1.920 [CVE-2019-15107] RCE PoC** : [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)  create time: 2022-07-26T07:38:03Z
 
 **Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection)** : [drkbcn/lblfixer_cve_2022_31181](https://github.com/drkbcn/lblfixer_cve_2022_31181)  create time: 2022-07-26T05:55:53Z
 
