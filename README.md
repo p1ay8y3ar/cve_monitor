@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-26 13:47:30.161084  total: 10174 
+ > update time: 2022-07-26 15:29:23.740428  total: 10175 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Additional exploits for XSS in Cisco ASA devices discovered by PTSwarm** : [catatonicprime/CVE-2020-3580](https://github.com/catatonicprime/CVE-2020-3580)  create time: 2022-07-15T00:11:29Z
 
 **Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC.** : [aslitsecurity/Zimbra-CVE-2022-30333](https://github.com/aslitsecurity/Zimbra-CVE-2022-30333)  create time: 2022-07-26T13:28:12Z
 
