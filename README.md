@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-27 15:28:33.077548  total: 10179 
+ > update time: 2022-07-27 16:37:39.117730  total: 10180 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**警惕 一种针对红队的新型溯源手段!** : [fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)  create time: 2022-07-27T15:48:19Z
 
 **Java classpath enumeration, focussed on CVE-2014-0043 for Apache Wicket 6.x** : [JJK96/JavaClasspathEnum](https://github.com/JJK96/JavaClasspathEnum)  create time: 2022-07-27T14:43:54Z
 
