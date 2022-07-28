@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-28 12:54:31.616083  total: 10186 
+ > update time: 2022-07-28 13:51:58.347966  total: 10187 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WordPress WP_Query SQL Injection POC** : [z92g/CVE-2022-21661](https://github.com/z92g/CVE-2022-21661)  create time: 2022-07-28T13:12:51Z
 
 **PHP CGI Argument Injection RCE** : [theykillmeslowly/CVE-2012-1823](https://github.com/theykillmeslowly/CVE-2012-1823)  create time: 2022-07-28T11:51:03Z
 
