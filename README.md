@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-30 11:23:58.134169  total: 10196 
+ > update time: 2022-07-30 16:33:08.538922  total: 10197 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script to exploit CVE-2018-1042 in order to do internal port scans.** : [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)  create time: 2022-07-30T16:08:50Z
 
 **Microsoft Exchange Server Spoofing Vulnerability Exploit!** : [0xrobiul/CVE-2021-41349-Exploit](https://github.com/0xrobiul/CVE-2021-41349-Exploit)  create time: 2022-07-30T10:51:55Z
 
