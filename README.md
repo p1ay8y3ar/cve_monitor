@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-30 07:23:11.031865  total: 10195 
+ > update time: 2022-07-30 11:23:58.134169  total: 10196 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Microsoft Exchange Server Spoofing Vulnerability Exploit!** : [0xrobiul/CVE-2021-41349-Exploit](https://github.com/0xrobiul/CVE-2021-41349-Exploit)  create time: 2022-07-30T10:51:55Z
 
 **Confluence CVE-2022-26138 POC** : [z92g/CVE-2022-26138](https://github.com/z92g/CVE-2022-26138)  create time: 2022-07-30T07:14:52Z
 
