@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-31 02:31:26.773397  total: 10200 
+ > update time: 2022-07-31 08:29:17.289409  total: 10201 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for SpringShell.** : [iyamrotrix/CVE-2022-22965](https://github.com/iyamrotrix/CVE-2022-22965)  create time: 2022-07-31T08:21:59Z
 
 **「💥」CVE-2022-33891 - Apache Spark Shell Command Injection** : [AmoloHT/CVE-2022-33891](https://github.com/AmoloHT/CVE-2022-33891)  create time: 2022-07-30T23:02:16Z
 
