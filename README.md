@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-30 17:24:38.916669  total: 10199 
+ > update time: 2022-07-31 02:31:26.773397  total: 10200 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**「💥」CVE-2022-33891 - Apache Spark Shell Command Injection** : [AmoloHT/CVE-2022-33891](https://github.com/AmoloHT/CVE-2022-33891)  create time: 2022-07-30T23:02:16Z
 
 **Script to exploit CVE-2018-1042 in order to do internal port scans.** : [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)  create time: 2022-07-30T17:06:57Z
 
