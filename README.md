@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-02 15:27:36.255855  total: 10211 
+ > update time: 2022-08-02 17:32:34.391208  total: 10213 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!!** : [vino-theva/CVE-2019-6447](https://github.com/vino-theva/CVE-2019-6447)  create time: 2022-08-02T17:16:34Z
+
+**Apache Log4j is a logging tool written in Java. This paper focuses on what is Log4j and log4shell  vulnerability and how it works, how it affects the victim, and  how can this be mitigated** : [vino-theva/CVE-2021-44228](https://github.com/vino-theva/CVE-2021-44228)  create time: 2022-08-02T17:03:55Z
 
 **建立一個概念類似 CVE-2022-28219 的測試環境** : [aeifkz/CVE-2022-28219-Like](https://github.com/aeifkz/CVE-2022-28219-Like)  create time: 2022-07-27T09:03:10Z
 
