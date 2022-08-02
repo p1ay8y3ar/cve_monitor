@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-02 17:32:34.391208  total: 10213 
+ > update time: 2022-08-02 19:18:47.985958  total: 10217 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-36946 linux kernel panic in netfilter_queue** : [XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)  create time: 2022-08-02T18:57:19Z
+
+**COMPILED** : [XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits)  create time: 2022-08-02T18:53:26Z
+
+**CVE-2022-21661 exp for Elementor custom skin.** : [XmasSnowISBACK/CVE-2022-21661](https://github.com/XmasSnowISBACK/CVE-2022-21661)  create time: 2022-08-02T18:51:31Z
+
+**CVE-2022-33891 - Apache Spark Command Injection** : [XmasSnowISBACK/CVE-2022-33891](https://github.com/XmasSnowISBACK/CVE-2022-33891)  create time: 2022-08-02T18:41:39Z
 
 **This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!!** : [vino-theva/CVE-2019-6447](https://github.com/vino-theva/CVE-2019-6447)  create time: 2022-08-02T17:16:34Z
 
