@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-04 17:30:56.930578  total: 10229 
+ > update time: 2022-08-04 21:24:32.947949  total: 10230 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability in Crow prior v1.0+4** : [0xhebi/CVE-2022-34970](https://github.com/0xhebi/CVE-2022-34970)  create time: 2022-07-29T00:19:33Z
 
 **A Fullstack Academy Cybersecurity project examining the full cycle of the Follina (CVE-2022-30190) vulnerability, from exploit to detection and defense.** : [jeffymcjeffface/five-nights-at-follina-s](https://github.com/jeffymcjeffface/five-nights-at-follina-s)  create time: 2022-08-01T16:47:50Z
 
