@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-04 14:23:47.432908  total: 10227 
+ > update time: 2022-08-04 16:36:26.623926  total: 10228 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 Gaurav Raj's exploit modified by Plunder** : [Plunder283/CVE-2021-41773](https://github.com/Plunder283/CVE-2021-41773)  create time: 2022-08-04T16:19:42Z
 
 **no description** : [0x414141414/Silent-Word-Exploit-CVE-2022](https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022)  create time: 2022-08-04T13:51:17Z
 
