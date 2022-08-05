@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-05 11:22:14.367447  total: 10232 
+ > update time: 2022-08-05 14:25:10.295816  total: 10233 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022-29582 targeting Google's Kernel CTF** : [Ruia-ruia/CVE-2022-29582-Exploit](https://github.com/Ruia-ruia/CVE-2022-29582-Exploit)  create time: 2022-08-04T15:29:04Z
 
 **no description** : [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)  create time: 2022-08-05T10:52:16Z
 
