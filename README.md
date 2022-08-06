@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-06 12:40:12.224643  total: 10235 
+ > update time: 2022-08-06 14:22:58.293636  total: 10236 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CallStranger (CVE-2020-12695) vulnerability.** : [Xcod3bughunt3r/CallStranger](https://github.com/Xcod3bughunt3r/CallStranger)  create time: 2022-08-06T14:12:23Z
 
 **CVE-2022-1015** : [pr0ln/bob_kern_exp1](https://github.com/pr0ln/bob_kern_exp1)  create time: 2022-08-06T12:34:22Z
 
