@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-07 02:20:29.891155  total: 10237 
+ > update time: 2022-08-07 09:23:36.089038  total: 10238 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SambaCry exploit (CVE-2017-7494)** : [00mjk/exploit-CVE-2017-7494](https://github.com/00mjk/exploit-CVE-2017-7494)  create time: 2022-05-29T16:27:13Z
 
 **CVE-2007-2447 exploit written in python to get reverse shell** : [HerculesRD/PyUsernameMapScriptRCE](https://github.com/HerculesRD/PyUsernameMapScriptRCE)  create time: 2022-08-07T00:34:38Z
 
