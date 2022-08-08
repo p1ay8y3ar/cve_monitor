@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-08 04:02:35.694715  total: 10240 
+ > update time: 2022-08-08 14:26:05.427044  total: 10241 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Webkit (Safari) - Exploit** : [springsec/CVE-2022-22620](https://github.com/springsec/CVE-2022-22620)  create time: 2022-08-04T07:11:39Z
 
 **no description** : [vesperp/CVE-2021-20038-SonicWall-RCE](https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE)  create time: 2022-08-08T03:38:06Z
 
