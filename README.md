@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-09 05:31:00.624032  total: 10243 
+ > update time: 2022-08-09 11:22:47.370628  total: 10244 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101)** : [karthikuj/CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101)  create time: 2022-08-09T10:29:48Z
 
 **no description** : [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)  create time: 2022-08-09T04:10:28Z
 
