@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-09 11:22:47.370628  total: 10244 
+ > update time: 2022-08-09 14:27:28.928879  total: 10245 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox** : [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)  create time: 2022-08-09T14:16:40Z
 
 **Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101)** : [karthikuj/CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101)  create time: 2022-08-09T10:29:48Z
 
