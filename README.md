@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-09 14:27:28.928879  total: 10245 
+ > update time: 2022-08-09 18:30:53.921948  total: 10246 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0xNix/CVE-2021-4034](https://github.com/0xNix/CVE-2021-4034)  create time: 2022-08-09T17:54:27Z
 
 **POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox** : [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)  create time: 2022-08-09T14:16:40Z
 
