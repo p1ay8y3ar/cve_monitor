@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-10 16:36:09.527384  total: 10253 
+ > update time: 2022-08-10 19:22:19.267013  total: 10254 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [J0EP/CVE-2022-X](https://github.com/J0EP/CVE-2022-X)  create time: 2022-08-10T19:12:06Z
 
 **An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.** : [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)  create time: 2022-08-10T15:53:44Z
 
