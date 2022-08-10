@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-10 11:22:18.696221  total: 10250 
+ > update time: 2022-08-10 16:36:09.527384  total: 10253 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.** : [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)  create time: 2022-08-10T15:53:44Z
+
+**baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability** : [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)  create time: 2022-08-09T15:53:48Z
+
+**RSA Key Checker for CVE-2022-20866** : [CiscoPSIRT/CVE-2022-20866](https://github.com/CiscoPSIRT/CVE-2022-20866)  create time: 2022-07-13T12:48:49Z
 
 **This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication** : [APTIRAN/CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040)  create time: 2022-08-10T10:38:59Z
 
