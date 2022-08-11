@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-11 02:01:30.924255  total: 10255 
+ > update time: 2022-08-11 06:31:23.095571  total: 10257 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-4154 exploit** : [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)  create time: 2022-08-11T05:46:27Z
+
+**exploit for CVE-2022-2588** : [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)  create time: 2022-08-11T06:01:24Z
 
 **Similarity Measure percentage calculation between CVE (2021,2022) and  USA Jobs (Cybersecurity job description), Indeed (Cybersecurity job description), LinkedIn (Historically marginalized Populations from Non MSA Data Description)** : [team-v-2022/Cosine-Percentage-Calculation](https://github.com/team-v-2022/Cosine-Percentage-Calculation)  create time: 2022-08-11T00:54:32Z
 
