@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-12 17:31:20.626626  total: 10262 
+ > update time: 2022-08-12 19:21:37.117227  total: 10263 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zimbra RCE simple poc** : [vnhacker1337/CVE-2022-27925-PoC](https://github.com/vnhacker1337/CVE-2022-27925-PoC)  create time: 2022-08-12T18:35:52Z
 
 **CVE-2022-35513 | blink1-pass-decrypt** : [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)  create time: 2022-07-05T18:27:36Z
 
