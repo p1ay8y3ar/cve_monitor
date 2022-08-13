@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-13 13:34:25.634403  total: 10264 
+ > update time: 2022-08-13 16:33:11.114904  total: 10265 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Autopwn Log4Shell (CVE-2021-44228)!!!** : [nemesi-ita/autoL4s](https://github.com/nemesi-ita/autoL4s)  create time: 2022-08-13T15:42:27Z
 
 **the payload of CVE-2021-21300** : [Roboterh/CVE-2021-21300](https://github.com/Roboterh/CVE-2021-21300)  create time: 2022-08-13T13:00:58Z
 
