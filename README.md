@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-12 19:21:37.117227  total: 10263 
+ > update time: 2022-08-13 13:34:25.634403  total: 10264 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**the payload of CVE-2021-21300** : [Roboterh/CVE-2021-21300](https://github.com/Roboterh/CVE-2021-21300)  create time: 2022-08-13T13:00:58Z
 
 **Zimbra RCE simple poc** : [vnhacker1337/CVE-2022-27925-PoC](https://github.com/vnhacker1337/CVE-2022-27925-PoC)  create time: 2022-08-12T18:35:52Z
 
