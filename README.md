@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-13 17:25:07.580584  total: 10266 
+ > update time: 2022-08-13 23:24:39.358071  total: 10267 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-33891 Exploit For Apache Spark** : [DrLinuxOfficial/CVE-2022-33891](https://github.com/DrLinuxOfficial/CVE-2022-33891)  create time: 2022-08-13T23:02:56Z
 
 **Modified dirtypipe script into auto root without have to search a file manually to hijack suid binary.** : [EagleTube/CVE-2022-0847](https://github.com/EagleTube/CVE-2022-0847)  create time: 2022-08-13T16:58:40Z
 
