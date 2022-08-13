@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-13 16:33:11.114904  total: 10265 
+ > update time: 2022-08-13 17:25:07.580584  total: 10266 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Modified dirtypipe script into auto root without have to search a file manually to hijack suid binary.** : [EagleTube/CVE-2022-0847](https://github.com/EagleTube/CVE-2022-0847)  create time: 2022-08-13T16:58:40Z
 
 **Autopwn Log4Shell (CVE-2021-44228)!!!** : [nemesi-ita/autoL4s](https://github.com/nemesi-ita/autoL4s)  create time: 2022-08-13T15:42:27Z
 
