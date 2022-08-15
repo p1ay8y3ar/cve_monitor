@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-15 07:24:34.773512  total: 10279 
+ > update time: 2022-08-15 08:31:23.446667  total: 10280 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability** : [Daro1967/CVE-2022-24500-MASS-RCE](https://github.com/Daro1967/CVE-2022-24500-MASS-RCE)  create time: 2022-08-15T07:52:50Z
 
 **CVE-2010-3333复现** : [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)  create time: 2022-08-15T06:54:55Z
 
