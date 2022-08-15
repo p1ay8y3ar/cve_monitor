@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-14 23:24:33.670017  total: 10272 
+ > update time: 2022-08-15 02:24:51.974552  total: 10273 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**🕵️ Yet another CVE-2019-9670 exploit, but in Golang.** : [oppsec/zaber](https://github.com/oppsec/zaber)  create time: 2022-08-15T00:54:44Z
 
 **no description** : [MeDx64/CVE-2022-27925](https://github.com/MeDx64/CVE-2022-27925)  create time: 2022-08-14T22:22:55Z
 
