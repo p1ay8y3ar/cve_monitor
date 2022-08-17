@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-17 20:27:36.137508  total: 10298 
+ > update time: 2022-08-17 21:24:34.678127  total: 10299 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A powershell poc to load and automatically run Certify and Rubeus from memory.** : [lsecqt/CVE-2022-26923-Powershell-POC](https://github.com/lsecqt/CVE-2022-26923-Powershell-POC)  create time: 2022-08-17T21:13:49Z
 
 **BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy [CVE-2020-15802] [CVE-2022-20361]** : [francozappa/blur](https://github.com/francozappa/blur)  create time: 2022-08-17T19:05:38Z
 
