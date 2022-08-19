@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-18 20:29:43.147422  total: 10305 
+ > update time: 2022-08-19 02:26:19.473644  total: 10307 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-0798复现** : [Sunqiz/CVE-2018-0798-reproduction](https://github.com/Sunqiz/CVE-2018-0798-reproduction)  create time: 2022-08-19T02:17:50Z
+
+**no description** : [xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)  create time: 2022-08-19T01:42:08Z
 
 **no description** : [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)  create time: 2022-08-18T19:58:53Z
 
