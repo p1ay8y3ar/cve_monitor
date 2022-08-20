@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-19 10:32:08.529218  total: 10309 
+ > update time: 2022-08-20 04:43:30.917095  total: 10310 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)  create time: 2022-08-20T03:01:30Z
 
 **PoC Advanced Comment System 1.0 - Remote Command Execution (RCE)** : [hupe1980/CVE-2009-4623](https://github.com/hupe1980/CVE-2009-4623)  create time: 2022-08-19T09:46:03Z
 
