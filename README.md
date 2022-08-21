@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-21 04:01:35.384216  total: 10315 
+ > update time: 2022-08-21 09:24:29.103798  total: 10316 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811** : [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)  create time: 2022-08-21T08:44:31Z
 
 **CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸** : [yoeelingBin/CVE-2022-0847-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape)  create time: 2022-08-18T03:06:15Z
 
