@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-21 09:24:29.103798  total: 10316 
+ > update time: 2022-08-21 11:22:08.365366  total: 10317 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a script for version detection of Webmin remote server interface.** : [monzaviman/CVE_2022_36446](https://github.com/monzaviman/CVE_2022_36446)  create time: 2022-08-21T10:35:50Z
 
 **awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811** : [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)  create time: 2022-08-21T08:44:31Z
 
