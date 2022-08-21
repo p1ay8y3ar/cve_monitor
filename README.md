@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-21 16:34:42.862085  total: 10318 
+ > update time: 2022-08-21 20:26:44.411480  total: 10319 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [PyterSmithDarkGhost/IoT-CVE202227255](https://github.com/PyterSmithDarkGhost/IoT-CVE202227255)  create time: 2022-08-21T19:41:55Z
 
 **This is a modified version of the original GhostCat Exploit** : [YounesTasra-R4z3rSw0rd/CVE-2020-1938](https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938)  create time: 2022-08-21T15:44:45Z
 
