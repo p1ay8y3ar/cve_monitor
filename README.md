@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-22 10:29:39.904657  total: 10323 
+ > update time: 2022-08-22 13:48:15.369028  total: 10324 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ahajnik/CVE-2022-34919](https://github.com/ahajnik/CVE-2022-34919)  create time: 2022-08-16T16:39:17Z
 
 **The test report of this exploit.** : [baka9moe/CVE-2021-3156-TestReport](https://github.com/baka9moe/CVE-2021-3156-TestReport)  create time: 2022-08-22T09:36:14Z
 
