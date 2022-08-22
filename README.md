@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-21 20:26:44.411480  total: 10319 
+ > update time: 2022-08-22 02:19:25.033196  total: 10320 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WordPress JSmol2WP Plugin 1.07版本中存在安全漏洞。攻击者可利用该漏洞读取任意文件。** : [Henry4E36/CVE-2018-20463](https://github.com/Henry4E36/CVE-2018-20463)  create time: 2022-08-22T00:37:14Z
 
 **no description** : [PyterSmithDarkGhost/IoT-CVE202227255](https://github.com/PyterSmithDarkGhost/IoT-CVE202227255)  create time: 2022-08-21T19:41:55Z
 
