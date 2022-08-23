@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-23 11:23:30.864441  total: 10328 
+ > update time: 2022-08-23 19:21:48.484467  total: 10329 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cortex XDR PoC ft. CVE-2021-3560** : [mikefak/XDR-PoC](https://github.com/mikefak/XDR-PoC)  create time: 2022-08-23T18:57:21Z
 
 **CVE-2022-2588** : [ASkyeye/2022-LPE-UAF](https://github.com/ASkyeye/2022-LPE-UAF)  create time: 2022-08-22T23:42:00Z
 
