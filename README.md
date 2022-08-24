@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 10:30:15.817275  total: 10337 
+ > update time: 2022-08-24 13:44:02.623146  total: 10338 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-2588,CVE-2022-2586,CVE-2022-2585** : [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)  create time: 2022-08-24T02:20:35Z
 
 **RCE Exploit within the RPC Library (CVE-2022-26809)** : [F1uk369/CVE-2022-26809](https://github.com/F1uk369/CVE-2022-26809)  create time: 2022-08-24T09:51:39Z
 
