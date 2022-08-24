@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 08:32:48.451836  total: 10335 
+ > update time: 2022-08-24 10:30:15.817275  total: 10337 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**RCE Exploit within the RPC Library (CVE-2022-26809)** : [F1uk369/CVE-2022-26809](https://github.com/F1uk369/CVE-2022-26809)  create time: 2022-08-24T09:51:39Z
+
+**no description** : [ZhaoQi99/CVE-2022-34265](https://github.com/ZhaoQi99/CVE-2022-34265)  create time: 2022-08-24T07:29:30Z
 
 **Internal Hostname Disclosure Vulnerability** : [Vulnmachines/Zoho_CVE-2022-23779](https://github.com/Vulnmachines/Zoho_CVE-2022-23779)  create time: 2022-08-24T07:58:45Z
 
