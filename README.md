@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 13:44:02.623146  total: 10338 
+ > update time: 2022-08-24 15:28:10.366818  total: 10340 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-](https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-)  create time: 2022-08-24T14:55:11Z
+
+**PrintNightmare (CVE-2021-34527) PoC Exploit** : [m8sec/CVE-2021-34527](https://github.com/m8sec/CVE-2021-34527)  create time: 2022-08-23T20:20:45Z
 
 **CVE-2022-2588,CVE-2022-2586,CVE-2022-2585** : [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)  create time: 2022-08-24T02:20:35Z
 
