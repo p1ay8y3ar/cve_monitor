@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-24 15:28:10.366818  total: 10340 
+ > update time: 2022-08-25 02:30:52.182436  total: 10344 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An SQL injection was discovered inOnline Diagnostic Lab Management System** : [Fjowel/CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37152)  create time: 2022-08-25T01:45:35Z
+
+**There is an unauthorized access vulnerability in Online Diagnostic Lab Management System 1.0** : [Fjowel/CVE-2022-37151](https://github.com/Fjowel/CVE-2022-37151)  create time: 2022-08-25T01:27:03Z
+
+**Online Diagnostic Lab Management System Stored XSS** : [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)  create time: 2022-08-25T00:58:52Z
+
+**no description** : [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)  create time: 2022-08-24T06:00:47Z
 
 **no description** : [nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-](https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-)  create time: 2022-08-24T14:55:11Z
 
