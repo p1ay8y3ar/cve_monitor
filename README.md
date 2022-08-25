@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-25 11:24:35.672254  total: 10345 
+ > update time: 2022-08-25 14:24:53.335291  total: 10346 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Oracle WebLogic CVE-2022-21371** : [Vulnmachines/Oracle-WebLogic-CVE-2022-21371](https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371)  create time: 2022-08-25T14:12:33Z
 
 **Zimbra CVE-2022-37042 Nuclei weaponized template** : [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)  create time: 2022-08-25T10:43:13Z
 
