@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-25 02:30:52.182436  total: 10344 
+ > update time: 2022-08-25 11:24:35.672254  total: 10345 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zimbra CVE-2022-37042 Nuclei weaponized template** : [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)  create time: 2022-08-25T10:43:13Z
 
 **An SQL injection was discovered inOnline Diagnostic Lab Management System** : [Fjowel/CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37152)  create time: 2022-08-25T01:45:35Z
 
