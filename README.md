@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-26 08:32:52.606706  total: 10355 
+ > update time: 2022-08-26 09:26:20.416968  total: 10358 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007)  create time: 2022-08-26T09:25:36Z
+
+**ZeroLogon exploitation script,One-click recovery of domain controller machine Hash** : [lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)  create time: 2022-08-26T09:06:04Z
+
+**Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash** : [30579096/CVE-2020-1473](https://github.com/30579096/CVE-2020-1473)  create time: 2022-08-08T07:03:59Z
 
 **CVE-2022-26134 web payload** : [1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)  create time: 2022-08-26T07:38:29Z
 
