@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-25 22:27:01.059333  total: 10350 
+ > update time: 2022-08-26 04:54:17.812458  total: 10351 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-25642** : [safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)  create time: 2022-08-26T03:51:58Z
 
 **Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228** : [eurogig/jankybank](https://github.com/eurogig/jankybank)  create time: 2022-08-25T21:35:32Z
 
