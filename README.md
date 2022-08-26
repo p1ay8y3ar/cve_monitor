@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-26 16:36:28.799514  total: 10361 
+ > update time: 2022-08-26 19:22:16.984683  total: 10362 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Rust POC for CVE-2018-1932X kernel driver vulnerabilities** : [BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)  create time: 2022-08-26T18:42:13Z
 
 **PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766)** : [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)  create time: 2022-08-26T08:43:40Z
 
