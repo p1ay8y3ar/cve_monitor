@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-26 07:30:25.057524  total: 10354 
+ > update time: 2022-08-26 08:32:52.606706  total: 10355 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134 web payload** : [1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)  create time: 2022-08-26T07:38:29Z
 
 **There is a XSS  vulnerability  in Artica Proxy 4.30.000000** : [5l1v3r1/CVE-2022-37153](https://github.com/5l1v3r1/CVE-2022-37153)  create time: 2022-08-25T08:27:51Z
 
