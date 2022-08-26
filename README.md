@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-26 19:22:16.984683  total: 10362 
+ > update time: 2022-08-26 20:27:46.942421  total: 10363 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python Script to exploit Zimbra Auth Bypass + RCE (CVE-2022-27925)** : [Chocapikk/CVE-2022-27925-Revshell](https://github.com/Chocapikk/CVE-2022-27925-Revshell)  create time: 2022-08-26T20:19:48Z
 
 **Rust POC for CVE-2018-1932X kernel driver vulnerabilities** : [BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)  create time: 2022-08-26T18:42:13Z
 
