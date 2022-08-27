@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-27 16:32:36.665619  total: 10365 
+ > update time: 2022-08-27 17:25:03.399966  total: 10366 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-37177 - HireVue-Broken-Or-Risky-Cryptographic-Algorithm** : [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)  create time: 2022-08-27T15:00:23Z
 
 **Simple checker for CVE-2022-27255 using poc_crash and telnet availability** : [stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)  create time: 2022-08-27T15:56:44Z
 
