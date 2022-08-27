@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-27 04:22:30.916558  total: 10364 
+ > update time: 2022-08-27 16:32:36.665619  total: 10365 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple checker for CVE-2022-27255 using poc_crash and telnet availability** : [stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)  create time: 2022-08-27T15:56:44Z
 
 **CVE-2022-0492-Container-Escape** : [yoeelingBin/CVE-2022-0492-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape)  create time: 2022-08-27T04:02:24Z
 
