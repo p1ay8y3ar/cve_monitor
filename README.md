@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-28 04:18:03.268194  total: 10368 
+ > update time: 2022-08-28 07:24:10.241961  total: 10369 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**nameko Arbitrary code execution due to YAML deserialization** : [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)  create time: 2022-08-28T06:42:59Z
 
 **no description** : [jturner786/magento-CVE-2022-24086](https://github.com/jturner786/magento-CVE-2022-24086)  create time: 2022-08-28T02:48:05Z
 
