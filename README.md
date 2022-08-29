@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-29 09:26:46.607763  total: 10373 
+ > update time: 2022-08-29 11:24:55.228991  total: 10374 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-36200 PoC** : [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)  create time: 2022-08-29T11:03:09Z
 
 **Apache Spark RCE - CVE-2022-33891** : [Vulnmachines/Apache-spark-CVE-2022-33891](https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891)  create time: 2022-08-29T08:48:38Z
 
