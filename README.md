@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-30 12:54:22.183135  total: 10385 
+ > update time: 2022-08-30 17:31:10.278007  total: 10386 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated RCE in Open Web Analytics (OWA) 1.7.3** : [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637)  create time: 2022-08-30T16:38:01Z
 
 **Oracle Weblogic RCE - CVE-2022-2109** : [Vulnmachines/oracle-weblogic-CVE-2021-2109](https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109)  create time: 2022-08-30T11:50:17Z
 
