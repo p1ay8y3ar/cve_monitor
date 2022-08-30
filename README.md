@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-30 08:33:57.419346  total: 10381 
+ > update time: 2022-08-30 10:28:48.846670  total: 10384 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2010-2553-reproduction** : [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)  create time: 2022-08-30T09:46:14Z
+
+**no description** : [Deepak983/CVE-2020-19587](https://github.com/Deepak983/CVE-2020-19587)  create time: 2022-08-30T10:08:07Z
+
+**Incorrect Access Control issue in Yellowfin Business Intelligence 7.3 allows remote attackers to escalate privilege via MIAdminStyles.i4 Admin UI** : [Deepak983/CVE-2020-19586](https://github.com/Deepak983/CVE-2020-19586)  create time: 2022-08-30T10:00:01Z
 
 **repo showcasing generating "psychic signatures for java"** : [davwwwx/CVE-2022-21449](https://github.com/davwwwx/CVE-2022-21449)  create time: 2022-08-30T08:12:24Z
 
