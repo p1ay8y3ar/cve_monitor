@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-31 23:26:52.323497  total: 10390 
+ > update time: 2022-09-01 07:27:21.897718  total: 10392 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Metasploit exploit for CVE-2022-30526** : [greek0x0/CVE-2022-30526](https://github.com/greek0x0/CVE-2022-30526)  create time: 2022-09-01T07:15:09Z
+
+**OpenSSL** : [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)  create time: 2022-09-01T07:00:00Z
 
 **Proof-of-concept exploit for the Dirty Pipe vulnerability (CVE-2022-0847)** : [notl0cal/dpipe](https://github.com/notl0cal/dpipe)  create time: 2022-08-31T23:19:28Z
 
