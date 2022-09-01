@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 09:27:27.162614  total: 10393 
+ > update time: 2022-09-01 15:30:06.022788  total: 10394 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**fastjson 1.2.80 CVE-2022-25845** : [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)  create time: 2022-09-01T04:36:50Z
 
 **no description** : [75ACOL/CVE-2022-22963](https://github.com/75ACOL/CVE-2022-22963)  create time: 2022-09-01T09:13:59Z
 
