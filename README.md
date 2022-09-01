@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 18:33:47.135460  total: 10396 
+ > update time: 2022-09-01 19:22:04.816312  total: 10397 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated RCE in Open Web Analytics (OWA) 1.7.3** : [Lay0us1/CVE-2022-24637](https://github.com/Lay0us1/CVE-2022-24637)  create time: 2022-08-30T17:31:14Z
 
 **no description** : [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)  create time: 2022-07-09T10:25:48Z
 
