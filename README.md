@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 19:22:04.816312  total: 10397 
+ > update time: 2022-09-01 21:25:06.943877  total: 10398 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-25260: semi-blind SSRF in JetBrains Hub** : [yuriisanin/CVE-2022-25260](https://github.com/yuriisanin/CVE-2022-25260)  create time: 2022-09-01T21:08:19Z
 
 **Unauthenticated RCE in Open Web Analytics (OWA) 1.7.3** : [Lay0us1/CVE-2022-24637](https://github.com/Lay0us1/CVE-2022-24637)  create time: 2022-08-30T17:31:14Z
 
