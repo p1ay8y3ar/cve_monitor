@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-02 02:33:02.396385  total: 10400 
+ > update time: 2022-09-02 08:32:51.510713  total: 10401 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**iTop < 2.7.6 - (Authenticated) Remote command execution** : [Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780)  create time: 2022-09-02T07:46:36Z
 
 **Powertek PDU身份绕过** : [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)  create time: 2022-09-02T02:27:31Z
 
