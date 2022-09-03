@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-03 15:27:18.045046  total: 10407 
+ > update time: 2022-09-03 16:34:12.159161  total: 10408 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated RCE in Laravel Debug Mode <8.4.2** : [JacobEbben/CVE-2021-3129](https://github.com/JacobEbben/CVE-2021-3129)  create time: 2022-09-03T15:25:35Z
 
 **Remote Code Execution exploit for CVE-2022-36804 (BitBucket Server and DataCenter).** : [cryptolakk/CVE-2022-36804-RCE](https://github.com/cryptolakk/CVE-2022-36804-RCE)  create time: 2022-09-03T14:53:29Z
 
