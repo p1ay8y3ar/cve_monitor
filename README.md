@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-03 19:22:57.261680  total: 10409 
+ > update time: 2022-09-04 13:37:23.745375  total: 10410 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-9099 test** : [gnaw1ng/cve-2022-9099](https://github.com/gnaw1ng/cve-2022-9099)  create time: 2022-09-04T13:15:49Z
 
 **CVE-2022-2586: Linux kernel nft_object UAF** : [aels/CVE-2022-2586-LPE](https://github.com/aels/CVE-2022-2586-LPE)  create time: 2022-09-03T19:04:31Z
 
