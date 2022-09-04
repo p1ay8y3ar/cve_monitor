@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-04 13:37:23.745375  total: 10410 
+ > update time: 2022-09-04 17:26:50.579881  total: 10411 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.** : [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)  create time: 2022-09-04T17:03:13Z
 
 **cve-2022-9099 test** : [gnaw1ng/cve-2022-9099](https://github.com/gnaw1ng/cve-2022-9099)  create time: 2022-09-04T13:15:49Z
 
