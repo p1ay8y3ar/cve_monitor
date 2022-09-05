@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-05 12:49:06.199020  total: 10412 
+ > update time: 2022-09-05 14:26:39.817526  total: 10414 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)  create time: 2022-09-05T14:21:12Z
+
+**CVE-2022-2639 Linux kernel openvswitch local privilege escalation** : [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)  create time: 2022-09-05T14:12:06Z
 
 **Wordpress Vulnerability - XSS ( Cross-Site Scripting )** : [akhilkoradiya/CVE-2022-29455](https://github.com/akhilkoradiya/CVE-2022-29455)  create time: 2022-09-05T12:08:50Z
 
