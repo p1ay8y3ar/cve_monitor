@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-06 18:32:59.267814  total: 10420 
+ > update time: 2022-09-07 02:40:20.560903  total: 10421 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-2639 Linux kernel openvswitch local privilege escalation** : [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)  create time: 2022-09-05T15:31:56Z
 
 **ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC** : [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)  create time: 2022-07-18T20:52:01Z
 
