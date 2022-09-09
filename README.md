@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-09 12:54:58.591293  total: 10438 
+ > update time: 2022-09-09 17:32:54.842452  total: 10439 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)  create time: 2022-09-09T15:27:12Z
 
 **Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation.** : [irsl/CVE-2022-20128](https://github.com/irsl/CVE-2022-20128)  create time: 2022-09-09T12:40:21Z
 
