@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-09 06:48:11.050278  total: 10432 
+ > update time: 2022-09-09 11:25:35.902424  total: 10435 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2014-6271] Apache Shellshock Remote Command Injection tool for quick reverse shell and file browsing** : [FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-](https://github.com/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-)  create time: 2022-09-09T10:44:25Z
+
+**CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF** : [emirpolatt/CVE-2022-31188](https://github.com/emirpolatt/CVE-2022-31188)  create time: 2022-09-09T10:36:59Z
+
+**CVE-2022-36446 - Webmin 1.996 Remote Code Execution** : [emirpolatt/CVE-2022-36446](https://github.com/emirpolatt/CVE-2022-36446)  create time: 2022-09-09T10:34:53Z
 
 **no description** : [nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360](https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360)  create time: 2022-09-09T06:09:15Z
 
