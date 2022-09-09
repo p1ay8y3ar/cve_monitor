@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-09 11:25:35.902424  total: 10435 
+ > update time: 2022-09-09 12:54:58.591293  total: 10438 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation.** : [irsl/CVE-2022-20128](https://github.com/irsl/CVE-2022-20128)  create time: 2022-09-09T12:40:21Z
+
+**Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations** : [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)  create time: 2022-09-09T12:31:56Z
+
+**CVE-2022-40297 - Proof of Concept: Privilage escalation in Ubuntu Touch 16.04 - by PIN Bruteforce** : [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)  create time: 2022-09-04T13:05:58Z
 
 **[CVE-2014-6271] Apache Shellshock Remote Command Injection tool for quick reverse shell and file browsing** : [FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-](https://github.com/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-)  create time: 2022-09-09T10:44:25Z
 
