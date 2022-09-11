@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-11 05:45:40.437835  total: 10447 
+ > update time: 2022-09-11 15:29:03.109142  total: 10449 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated Blind Command injection in the enable_user function of DroboAccess v 2.1** : [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)  create time: 2022-09-10T20:11:08Z
+
+**metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445** : [Ziggy78/CVE-2022-26809-RCE-MASS](https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS)  create time: 2022-09-11T14:41:10Z
 
 **Write-up for Sekhmet HackTheBox, CVE-2022-3506, Active Directory Exploitation** : [hackthebox-writeups/Sekhmet-HackTheBox-Writeup](https://github.com/hackthebox-writeups/Sekhmet-HackTheBox-Writeup)  create time: 2022-09-10T20:27:55Z
 
