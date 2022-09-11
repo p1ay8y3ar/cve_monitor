@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-11 15:29:03.109142  total: 10449 
+ > update time: 2022-09-11 16:36:09.895026  total: 10450 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DrayTek Vigor Exploit** : [Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)  create time: 2022-09-11T16:24:25Z
 
 **Unauthenticated Blind Command injection in the enable_user function of DroboAccess v 2.1** : [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)  create time: 2022-09-10T20:11:08Z
 
