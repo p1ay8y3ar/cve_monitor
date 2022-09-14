@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 11:25:24.238279  total: 10471 
+ > update time: 2022-09-14 12:55:39.431147  total: 10473 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ProxyStaffy/Airties-CVE-2022-38789](https://github.com/ProxyStaffy/Airties-CVE-2022-38789)  create time: 2022-09-14T12:43:05Z
+
+**no description** : [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347)  create time: 2022-09-14T12:06:24Z
 
 **Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548** : [Administrative2022/CVE-2022-32548-RCE](https://github.com/Administrative2022/CVE-2022-32548-RCE)  create time: 2022-09-14T10:51:42Z
 
