@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 07:41:07.021734  total: 10469 
+ > update time: 2022-09-14 09:30:22.482807  total: 10470 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit code for CVE-2021-1961** : [tamirzb/CVE-2021-1961](https://github.com/tamirzb/CVE-2021-1961)  create time: 2022-09-03T13:31:13Z
 
 **no description** : [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)  create time: 2022-09-14T07:28:23Z
 
