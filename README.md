@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 14:33:58.897207  total: 10474 
+ > update time: 2022-09-14 19:25:03.172556  total: 10475 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-2546 explained** : [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)  create time: 2022-09-14T19:03:43Z
 
 **HIP2022 presentation materials.** : [EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)  create time: 2022-09-14T13:59:21Z
 
