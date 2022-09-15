@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-15 16:39:19.243254  total: 10504 
+ > update time: 2022-09-15 17:33:02.447535  total: 10505 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field** : [rftg1000/CVE-2022-32548-POC-RCE](https://github.com/rftg1000/CVE-2022-32548-POC-RCE)  create time: 2022-09-15T17:21:39Z
 
 **no description** : [kernel-cyber/CVE-2009-4623](https://github.com/kernel-cyber/CVE-2009-4623)  create time: 2022-09-15T15:38:30Z
 
