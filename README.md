@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 19:25:03.172556  total: 10475 
+ > update time: 2022-09-15 02:47:18.691417  total: 10476 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ZeroLogon exploitation script,One-click recovery of domain controller machine Hash** : [zha0/CVE-2020-1474](https://github.com/zha0/CVE-2020-1474)  create time: 2022-09-01T14:40:28Z
 
 **CVE-2022-2546 explained** : [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)  create time: 2022-09-14T19:03:43Z
 
