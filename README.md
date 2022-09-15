@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-15 15:30:51.803062  total: 10502 
+ > update time: 2022-09-15 16:39:19.243254  total: 10504 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [kernel-cyber/CVE-2009-4623](https://github.com/kernel-cyber/CVE-2009-4623)  create time: 2022-09-15T15:38:30Z
+
+**Proof of concept for CVE-2022-30190 (Follina).** : [winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190)  create time: 2022-09-15T16:12:57Z
 
 **no description** : [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)  create time: 2022-09-05T12:54:26Z
 
