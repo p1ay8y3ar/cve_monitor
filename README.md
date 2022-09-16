@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 16:39:20.929128  total: 10521 
+ > update time: 2022-09-16 18:34:10.416206  total: 10522 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**APPLE IOS/IPADOS UP TO 15.6.1 KERNEL LOCAL PRIVILEGE ESCALATION** : [Administrative2022/CVE-2022-32917-POC](https://github.com/Administrative2022/CVE-2022-32917-POC)  create time: 2022-09-16T17:50:58Z
 
 **no description** : [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)  create time: 2022-09-16T16:30:29Z
 
