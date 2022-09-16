@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 14:35:27.734800  total: 10519 
+ > update time: 2022-09-16 16:39:20.929128  total: 10521 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)  create time: 2022-09-16T16:30:29Z
+
+**PoC repro of CVE-2022-23773 in Go** : [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)  create time: 2022-09-16T16:28:35Z
 
 **github-fundamentals-CVenegas2022 created by GitHub Classroom** : [CS208/github-fundamentals-CVenegas2022](https://github.com/CS208/github-fundamentals-CVenegas2022)  create time: 2022-09-16T14:21:21Z
 
