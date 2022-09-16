@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 06:12:58.352018  total: 10506 
+ > update time: 2022-09-16 08:34:29.590359  total: 10508 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-37210 POC** : [AgainstTheLight/CVE-2022-37210](https://github.com/AgainstTheLight/CVE-2022-37210)  create time: 2022-09-16T08:17:56Z
+
+**CVE-2022-37209 POC** : [AgainstTheLight/CVE-2022-37209](https://github.com/AgainstTheLight/CVE-2022-37209)  create time: 2022-09-16T08:15:13Z
 
 **PoC for CVE-2022-34729** : [Pwnrin/CVE-2022-34729](https://github.com/Pwnrin/CVE-2022-34729)  create time: 2022-09-16T06:07:04Z
 
