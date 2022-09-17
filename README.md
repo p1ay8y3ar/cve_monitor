@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-17 08:33:50.968649  total: 10524 
+ > update time: 2022-09-17 12:46:21.342655  total: 10525 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass Unauthenticated Remote Code Execution in DrayTek Vigor(CVE-2022-32548) botnet version** : [n0zxRY0/CVE-2022-32548-RCE](https://github.com/n0zxRY0/CVE-2022-32548-RCE)  create time: 2022-09-17T11:54:56Z
 
 **no description** : [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)  create time: 2022-09-17T07:58:33Z
 
