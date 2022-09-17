@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-17 06:34:43.661946  total: 10523 
+ > update time: 2022-09-17 08:33:50.968649  total: 10524 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)  create time: 2022-09-17T07:58:33Z
 
 **CVE-2019-0708, A tool which mass hunts for bluekeep vulnerability for exploitation.** : [Ravaan21/Bluekeep-Hunter](https://github.com/Ravaan21/Bluekeep-Hunter)  create time: 2022-09-17T05:41:15Z
 
