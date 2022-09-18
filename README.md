@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-18 12:47:51.968621  total: 10528 
+ > update time: 2022-09-18 16:37:22.786099  total: 10529 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Turning Your Computer Into a GPS Tracker With Apple Maps** : [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)  create time: 2022-09-18T15:51:52Z
 
 **Magento store rce/shell upload exploit tool** : [N0pch/CVE-2022-24086-magento-rce](https://github.com/N0pch/CVE-2022-24086-magento-rce)  create time: 2022-09-18T11:52:59Z
 
