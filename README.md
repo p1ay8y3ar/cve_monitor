@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-18 08:33:05.240222  total: 10527 
+ > update time: 2022-09-18 12:47:51.968621  total: 10528 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Magento store rce/shell upload exploit tool** : [N0pch/CVE-2022-24086-magento-rce](https://github.com/N0pch/CVE-2022-24086-magento-rce)  create time: 2022-09-18T11:52:59Z
 
 **All Credit to MaherAzzouzi (https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit). This is a copy of the exploit for CTFs** : [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)  create time: 2022-09-18T08:04:08Z
 
