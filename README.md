@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-17 23:28:16.226242  total: 10526 
+ > update time: 2022-09-18 08:33:05.240222  total: 10527 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**All Credit to MaherAzzouzi (https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit). This is a copy of the exploit for CTFs** : [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)  create time: 2022-09-18T08:04:08Z
 
 **no description** : [touchmycrazyredhat/CVE-2022-27925-Revshell](https://github.com/touchmycrazyredhat/CVE-2022-27925-Revshell)  create time: 2022-09-17T22:24:32Z
 
