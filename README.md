@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-19 09:32:29.211055  total: 10535 
+ > update time: 2022-09-19 12:57:24.143014  total: 10536 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [CEOrbey/CVE-2022-36804-POC-RCE](https://github.com/CEOrbey/CVE-2022-36804-POC-RCE)  create time: 2022-09-19T12:46:33Z
 
 **no description** : [astring0/CVE-2022-99999-TCP-RCE](https://github.com/astring0/CVE-2022-99999-TCP-RCE)  create time: 2022-09-19T09:25:15Z
 
