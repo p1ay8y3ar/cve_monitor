@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-19 14:34:02.968737  total: 10538 
+ > update time: 2022-09-20 04:55:18.133516  total: 10540 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dileepdkumar/LayarKacaSiber-CVE-2021-41773](https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773)  create time: 2022-09-20T03:45:24Z
+
+**Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)** : [BenHays142/CVE-2022-36804-PoC-Exploit](https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit)  create time: 2022-09-20T02:35:53Z
 
 **CVE-2022-31814 Exploitation Toolkit.** : [EvergreenCartoons/SenselessViolence](https://github.com/EvergreenCartoons/SenselessViolence)  create time: 2022-09-18T11:10:04Z
 
