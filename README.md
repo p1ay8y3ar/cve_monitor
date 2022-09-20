@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-20 09:32:09.932357  total: 10542 
+ > update time: 2022-09-20 10:33:00.758610  total: 10543 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability** : [Vulnmachines/bitbucket-cve-2022-36804](https://github.com/Vulnmachines/bitbucket-cve-2022-36804)  create time: 2022-09-20T10:08:47Z
 
 **Pentesterlab - CVE-2018-6574: go get RCE** : [EmaVirgRep/cve-2018-6574](https://github.com/EmaVirgRep/cve-2018-6574)  create time: 2022-09-20T08:54:06Z
 
