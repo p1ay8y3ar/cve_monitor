@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-20 14:00:42.847601  total: 10545 
+ > update time: 2022-09-20 15:31:23.738451  total: 10548 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CROSS SITE SCRIPTING (XSS) ON "ACADEMY LEARNING MANAGEMENT SYSTEM" - PROOF OF CONCEPT (POC) CVE-2022-38553** : [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)  create time: 2022-09-20T14:51:52Z
+
+**Cisco RV series unauthenticated RCE laoder + mass scanner** : [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)  create time: 2022-09-20T14:51:26Z
+
+**CVE-2022-37059 Cross Site Scripting (XSS) in Admin Panel of Subrion CMS 4.2.1** : [RashidKhanPathan/Security-Research](https://github.com/RashidKhanPathan/Security-Research)  create time: 2022-09-20T11:38:47Z
 
 **Cisco Small Business RCE [included mass exploiter and scanner]** : [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)  create time: 2022-09-20T13:26:04Z
 
