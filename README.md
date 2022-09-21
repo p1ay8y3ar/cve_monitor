@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-21 04:59:58.392875  total: 10549 
+ > update time: 2022-09-21 07:49:26.987871  total: 10551 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)  create time: 2022-09-21T06:21:07Z
+
+**CVE-2022-39197** : [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)  create time: 2022-09-21T06:22:10Z
 
 **ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.** : [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)  create time: 2022-09-21T04:29:42Z
 
