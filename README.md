@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-21 10:32:11.273282  total: 10555 
+ > update time: 2022-09-21 11:26:02.420434  total: 10556 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bitbucket CVE-2022-36804 unauthenticated remote command execution** : [kljunowsky/CVE-2022-36804-POC](https://github.com/kljunowsky/CVE-2022-36804-POC)  create time: 2022-09-21T10:36:50Z
 
 **no description** : [j-jasson/CVE-2015-5531-POC](https://github.com/j-jasson/CVE-2015-5531-POC)  create time: 2022-09-21T09:57:58Z
 
