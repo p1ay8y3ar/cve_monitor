@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-22 02:34:33.727310  total: 10560 
+ > update time: 2022-09-22 09:32:27.052234  total: 10561 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-6574** : [moorada/goGetRCE](https://github.com/moorada/goGetRCE)  create time: 2022-09-22T08:26:28Z
 
 **cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等** : [lovechoudoufu/cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)  create time: 2022-08-02T08:20:46Z
 
