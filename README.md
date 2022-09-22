@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-22 20:30:47.749752  total: 10572 
+ > update time: 2022-09-22 23:30:47.880142  total: 10573 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Docker CVE-2022-37708** : [thekevinday/docker_lightman_exploit](https://github.com/thekevinday/docker_lightman_exploit)  create time: 2022-09-22T23:06:08Z
 
 **cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等** : [Security-Rules/cobaltstrike4.5_cdf](https://github.com/Security-Rules/cobaltstrike4.5_cdf)  create time: 2022-09-22T10:04:36Z
 
