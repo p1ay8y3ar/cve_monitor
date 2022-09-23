@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-23 09:30:58.998537  total: 10575 
+ > update time: 2022-09-23 11:25:38.906857  total: 10576 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection)** : [Chocapikk/CVE-2022-36804-ReverseShell](https://github.com/Chocapikk/CVE-2022-36804-ReverseShell)  create time: 2022-09-23T11:05:22Z
 
 **Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE** : [CEOrbey/CVE-2022-36804-MASS-RCE](https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE)  create time: 2022-09-23T08:43:52Z
 
