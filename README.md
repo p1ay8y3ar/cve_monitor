@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-23 11:25:38.906857  total: 10576 
+ > update time: 2022-09-23 12:53:39.329593  total: 10577 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445** : [Ziggy78/CVE-2022-26809-FULL-RCE](https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE)  create time: 2022-09-23T12:27:06Z
 
 **PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection)** : [Chocapikk/CVE-2022-36804-ReverseShell](https://github.com/Chocapikk/CVE-2022-36804-ReverseShell)  create time: 2022-09-23T11:05:22Z
 
