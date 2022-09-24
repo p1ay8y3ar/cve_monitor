@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-23 20:30:35.754654  total: 10585 
+ > update time: 2022-09-24 09:28:57.390210  total: 10586 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cobalt Strike RCE CVE-2022-39197** : [yqcs/CSPOC](https://github.com/yqcs/CSPOC)  create time: 2022-09-24T08:14:36Z
 
 **ASUS router exploit** : [expl0despl0it/CVE-2021-44158](https://github.com/expl0despl0it/CVE-2021-44158)  create time: 2022-09-23T20:02:58Z
 
