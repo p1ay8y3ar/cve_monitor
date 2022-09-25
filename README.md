@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-25 15:29:49.423174  total: 10595 
+ > update time: 2022-09-25 20:29:37.805543  total: 10596 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A somewhat reliable PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection).** : [touchmycrazyredhat/CVE-2022-36804-RevSh](https://github.com/touchmycrazyredhat/CVE-2022-36804-RevSh)  create time: 2022-09-25T20:09:04Z
 
 **CVE-2022-1040** : [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)  create time: 2022-09-25T15:15:01Z
 
