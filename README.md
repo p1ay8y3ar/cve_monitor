@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-25 04:37:52.229648  total: 10591 
+ > update time: 2022-09-25 08:33:23.169438  total: 10592 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-28282** : [Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)  create time: 2022-09-25T07:46:23Z
 
 **Vulnerability to CVE-2021-4034 Pwnkit** : [flux10n/CVE-2021-4034](https://github.com/flux10n/CVE-2021-4034)  create time: 2022-09-25T02:46:20Z
 
