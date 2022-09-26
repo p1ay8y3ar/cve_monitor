@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-26 10:32:12.233326  total: 10600 
+ > update time: 2022-09-26 14:01:32.808681  total: 10604 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SonicWall SMA 100 Multiple Vulnerabilities, RCE** : [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)  create time: 2022-09-26T13:36:19Z
+
+**no description** : [sne4ker/apache-CVE-2021-41773-CVE-2021-42013](https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013)  create time: 2022-09-26T13:13:37Z
+
+**DrayTek Vigor Routers RCE** : [MaX0dexpoit/CVE-2022-32548](https://github.com/MaX0dexpoit/CVE-2022-32548)  create time: 2022-09-26T13:26:58Z
+
+**DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field** : [Xu0Tex1/CVE-2022-32548-Mass-Rce](https://github.com/Xu0Tex1/CVE-2022-32548-Mass-Rce)  create time: 2022-09-26T13:06:23Z
 
 **CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.** : [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch)  create time: 2022-09-26T08:58:21Z
 
