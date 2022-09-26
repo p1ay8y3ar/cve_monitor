@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-26 09:32:24.095913  total: 10599 
+ > update time: 2022-09-26 10:32:12.233326  total: 10600 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.** : [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch)  create time: 2022-09-26T08:58:21Z
 
 **A loader for bitbucket 2022 rce (cve-2022-36804)** : [Inplex-sys/CVE-2022-36804](https://github.com/Inplex-sys/CVE-2022-36804)  create time: 2022-09-26T08:35:31Z
 
