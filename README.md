@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-26 20:30:27.171065  total: 10608 
+ > update time: 2022-09-27 18:39:22.176814  total: 10612 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ASUS router exploit + PoC** : [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)  create time: 2022-09-27T18:17:42Z
+
+**DrayTek Vigor Exploit + PoC** : [c0resploit/CVE-2022-32548](https://github.com/c0resploit/CVE-2022-32548)  create time: 2022-09-27T18:16:48Z
+
+**Fastjson exploit + PoC** : [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)  create time: 2022-09-27T18:14:28Z
+
+**Cisco Small Business RCE PoC + [included mass exploiter and scanner]** : [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)  create time: 2022-09-27T18:09:49Z
 
 **A POC of CVE-2022-30206** : [Malwareman007/CVE-2022-30206](https://github.com/Malwareman007/CVE-2022-30206)  create time: 2022-09-26T19:38:24Z
 
