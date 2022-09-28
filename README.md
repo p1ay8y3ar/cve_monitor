@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-27 18:39:22.176814  total: 10612 
+ > update time: 2022-09-28 04:56:49.554270  total: 10613 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2016-0010复现** : [Sunqiz/CVE-2016-0010-reproduction](https://github.com/Sunqiz/CVE-2016-0010-reproduction)  create time: 2022-09-28T03:00:11Z
 
 **ASUS router exploit + PoC** : [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)  create time: 2022-09-27T18:17:42Z
 
