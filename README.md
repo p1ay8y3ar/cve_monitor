@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-28 04:56:49.554270  total: 10613 
+ > update time: 2022-09-28 07:40:48.708685  total: 10615 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field** : [Xu0Tex1/CVE-2022-32548-RCE-POC](https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC)  create time: 2022-09-28T06:46:07Z
+
+**An integer overflow in WhatsApp that results in remote code execution in an established video call.** : [F1uk369/CVE-2022-36934](https://github.com/F1uk369/CVE-2022-36934)  create time: 2022-09-28T06:33:03Z
 
 **CVE-2016-0010复现** : [Sunqiz/CVE-2016-0010-reproduction](https://github.com/Sunqiz/CVE-2016-0010-reproduction)  create time: 2022-09-28T03:00:11Z
 
