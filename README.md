@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 13:00:47.320069  total: 10635 
+ > update time: 2022-09-30 15:34:08.690908  total: 10638 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Rcs55F/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/Rcs55F/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-09-30T15:10:59Z
+
+**no description** : [Rcs55F/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/Rcs55F/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-09-30T15:05:06Z
+
+**no description** : [Rcs55F/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/Rcs55F/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-09-30T15:03:35Z
 
 **CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admains** : [TimWallbey/CVE-2022-41082-RCE](https://github.com/TimWallbey/CVE-2022-41082-RCE)  create time: 2022-09-30T12:48:08Z
 
