@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 09:37:25.468231  total: 10633 
+ > update time: 2022-09-30 10:34:00.550643  total: 10634 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/external_zlib-1.2.7_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.7_CVE-2022-37434)  create time: 2022-09-30T10:20:36Z
 
 **CVE-2022-41082 RCE as known as ProxyNotShell** : [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)  create time: 2022-09-30T09:33:39Z
 
