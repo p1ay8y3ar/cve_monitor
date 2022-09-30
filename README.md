@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 15:34:08.690908  total: 10638 
+ > update time: 2022-09-30 17:43:35.682424  total: 10639 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins** : [TimWallbey/CVE-2022-41082-PoC](https://github.com/TimWallbey/CVE-2022-41082-PoC)  create time: 2022-09-30T17:23:29Z
 
 **no description** : [Rcs55F/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/Rcs55F/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-09-30T15:10:59Z
 
