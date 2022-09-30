@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 07:49:28.268571  total: 10632 
+ > update time: 2022-09-30 09:37:25.468231  total: 10633 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41082 RCE as known as ProxyNotShell** : [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)  create time: 2022-09-30T09:33:39Z
 
 **mass adding script for draytek vigor [CVE-2022-32548]** : [d4rk0x00/CVE-2022-32548-RCE](https://github.com/d4rk0x00/CVE-2022-32548-RCE)  create time: 2022-09-30T07:17:19Z
 
