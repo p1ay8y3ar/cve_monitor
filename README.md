@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 17:43:35.682424  total: 10639 
+ > update time: 2022-09-30 18:37:57.501396  total: 10641 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41040 Remote Code Exeuction vulnerability** : [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)  create time: 2022-09-30T18:25:21Z
+
+**PoC for CVE-2022-41082 RCE as known as ProxyNotShell** : [R007er/CVE-2022-41082-POC](https://github.com/R007er/CVE-2022-41082-POC)  create time: 2022-09-30T17:51:47Z
 
 **CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins** : [TimWallbey/CVE-2022-41082-PoC](https://github.com/TimWallbey/CVE-2022-41082-PoC)  create time: 2022-09-30T17:23:29Z
 
