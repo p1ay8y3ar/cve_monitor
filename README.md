@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 21:27:37.733931  total: 10644 
+ > update time: 2022-10-01 05:00:11.374759  total: 10645 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WonderCMS 3.1.3 - Authenticated Remote Code Execution** : [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)  create time: 2022-10-01T04:14:20Z
 
 **Laravel debug mode - Remote Code Execution (RCE)** : [hupe1980/CVE-2021-3129](https://github.com/hupe1980/CVE-2021-3129)  create time: 2022-09-30T17:54:17Z
 
