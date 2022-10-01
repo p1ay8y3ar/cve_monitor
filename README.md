@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-01 11:25:55.224015  total: 10650 
+ > update time: 2022-10-01 12:52:08.737709  total: 10653 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**unauthenticated remote code execution in userportal and webadmin component of sophos firewall** : [sevous/CVE-2022-3236-RCE](https://github.com/sevous/CVE-2022-3236-RCE)  create time: 2022-10-01T12:06:28Z
+
+**Nmap scripts to detect exchange 0-day (CVE-2022-41082) vulnerability** : [Diverto/nse-exchange](https://github.com/Diverto/nse-exchange)  create time: 2022-10-01T11:53:14Z
+
+**CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins** : [spher0X/CVE-2022-41082-RCE](https://github.com/spher0X/CVE-2022-41082-RCE)  create time: 2022-10-01T11:45:34Z
 
 **VanillaForum 2.6.3 allows stored XSS.** : [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)  create time: 2020-02-10T07:24:37Z
 
