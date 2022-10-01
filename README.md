@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-01 10:31:57.552184  total: 10648 
+ > update time: 2022-10-01 11:25:55.224015  total: 10650 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**VanillaForum 2.6.3 allows stored XSS.** : [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)  create time: 2020-02-10T07:24:37Z
+
+**A loader for zimbra 2022 rce (cve-2022-27925)** : [Inplex-sys/CVE-2022-27925](https://github.com/Inplex-sys/CVE-2022-27925)  create time: 2022-10-01T10:33:55Z
 
 **Metasploit Framework module for ProxyNotShell – CVE-2022-40140 & CVE-2022-41082** : [0daylabin/ProxyNotShell](https://github.com/0daylabin/ProxyNotShell)  create time: 2022-10-01T10:03:24Z
 
