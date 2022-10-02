@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-02 08:35:38.024597  total: 10656 
+ > update time: 2022-10-02 09:31:12.245854  total: 10658 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins** : [krc0m/CVE-2022-41082](https://github.com/krc0m/CVE-2022-41082)  create time: 2022-10-02T08:51:58Z
+
+**no description** : [Boonjune/POC-CVE-2022-30600](https://github.com/Boonjune/POC-CVE-2022-30600)  create time: 2022-10-02T08:43:05Z
 
 **Check for NotProxyShell CVE-2022-40140 & CVE-2022-41082** : [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)  create time: 2022-10-02T08:14:03Z
 
