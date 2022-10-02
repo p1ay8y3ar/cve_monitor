@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-02 10:31:57.347967  total: 10659 
+ > update time: 2022-10-02 12:52:27.572476  total: 10660 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41040 nuclei template** : [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)  create time: 2022-10-02T11:26:57Z
 
 **no description** : [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)  create time: 2022-10-02T09:53:33Z
 
