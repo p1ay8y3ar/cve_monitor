@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-04 02:24:26.219174  total: 10672 
+ > update time: 2022-10-04 04:17:46.996368  total: 10675 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22205，提供一键上传webshell，命令执行或者上传公钥使用SSH连接** : [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)  create time: 2022-10-04T03:39:27Z
+
+**CVE-2022-41082-RCE-POC aka ProxyNotShell** : [kevin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kevin-beaumont/CVE-2022-41082-RCE-POC)  create time: 2022-10-04T03:59:27Z
+
+**CVE-2022-41040-RCE-POC Aka ProxyNotShell** : [kevin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kevin-beaumont/CVE-2022-41040-RCE-POC)  create time: 2022-10-04T03:50:10Z
 
 **no description** : [trhacknon/CVE-2022-26134-miam](https://github.com/trhacknon/CVE-2022-26134-miam)  create time: 2022-06-13T01:25:39Z
 
