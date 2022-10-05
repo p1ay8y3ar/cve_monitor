@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-05 18:44:39.037550  total: 10685 
+ > update time: 2022-10-05 19:36:32.445696  total: 10686 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Everdoh/CVE-2013-6490](https://github.com/Everdoh/CVE-2013-6490)  create time: 2022-10-05T18:53:09Z
 
 **no description** : [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)  create time: 2022-10-05T18:40:09Z
 
