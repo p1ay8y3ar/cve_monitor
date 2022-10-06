@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-06 21:28:25.998761  total: 10695 
+ > update time: 2022-10-06 22:30:53.949280  total: 10697 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41082-RCE-POC aka ProxyNotShell** : [kevbeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41082-RCE-POC)  create time: 2022-10-06T22:18:44Z
+
+**CVE-2022-41040-RCE-POC aka ProxyNotShell** : [kevbeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41040-RCE-POC)  create time: 2022-10-06T22:16:30Z
 
 **Лабораторная работа по Веб-технологиям** : [belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)  create time: 2022-10-06T20:56:25Z
 
