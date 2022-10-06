@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-06 18:39:21.197833  total: 10693 
+ > update time: 2022-10-06 21:28:25.998761  total: 10695 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Лабораторная работа по Веб-технологиям** : [belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)  create time: 2022-10-06T20:56:25Z
+
+**Лабораторная работа по Веб-технологиям** : [belebeba/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/belebeba/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)  create time: 2022-10-06T20:41:22Z
 
 **A PoC exploit for the Apache Any23 <=2.5 RCE vulnerability** : [jsharp6968/cve_2021_40146](https://github.com/jsharp6968/cve_2021_40146)  create time: 2022-10-06T17:46:10Z
 
