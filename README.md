@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-07 18:39:52.097829  total: 10704 
+ > update time: 2022-10-08 04:05:09.214183  total: 10705 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**patched to work** : [ZephrFish/Exch-CVE-2021-26855_Priv](https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv)  create time: 2021-03-15T12:33:04Z
 
 **POC Of CVE-2022-26937** : [Malwareman007/CVE-2022-26937](https://github.com/Malwareman007/CVE-2022-26937)  create time: 2022-10-07T18:08:09Z
 
