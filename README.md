@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 14:30:48.358994  total: 10719 
+ > update time: 2022-10-08 16:39:17.554899  total: 10721 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**🤯 Exploit for sudo heap overflow.** : [iyamroshan/CVE-2021-3156](https://github.com/iyamroshan/CVE-2021-3156)  create time: 2022-10-08T15:53:25Z
+
+**Grafana - Directory Traversal and Arbitrary File Read** : [hupe1980/CVE-2021-43798](https://github.com/hupe1980/CVE-2021-43798)  create time: 2022-10-08T15:31:19Z
 
 **This is a exploit for CVE-2019-9053** : [zmiddle/Simple_CMS_SQLi](https://github.com/zmiddle/Simple_CMS_SQLi)  create time: 2022-10-08T14:20:48Z
 
