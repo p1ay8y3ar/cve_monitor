@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 08:36:32.296725  total: 10709 
+ > update time: 2022-10-08 09:31:16.169188  total: 10711 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)  create time: 2022-10-08T08:38:00Z
+
+**MASS SCANNER FOR PROXYNOTSHELL (CVE-2022-41082 & CVE-2022-41040)** : [b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)  create time: 2022-10-08T08:36:10Z
 
 **CVE-2022-41082-RCE-POC aka ProxyNotShell** : [kevibeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC)  create time: 2022-10-08T07:50:19Z
 
