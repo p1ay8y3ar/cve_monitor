@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-09 15:32:12.791696  total: 10728 
+ > update time: 2022-10-09 17:35:03.842100  total: 10729 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detecting CVE-2022-26134 using Nuclei** : [skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)  create time: 2022-10-09T17:15:07Z
 
 **CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server** : [kljunowsky/CVE-2022-41040-POC](https://github.com/kljunowsky/CVE-2022-41040-POC)  create time: 2022-10-09T15:27:40Z
 
