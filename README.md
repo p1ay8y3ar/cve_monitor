@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-10 16:43:57.217711  total: 10737 
+ > update time: 2022-10-10 23:36:38.165399  total: 10738 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**polkit priv esc: pkexec out of boundary exploit** : [Pixailz/CVE-2021-4034](https://github.com/Pixailz/CVE-2021-4034)  create time: 2022-10-10T22:56:09Z
 
 **mass rce for ProxyNotShell** : [t0mby/CVE-2022-41082-MASS-RCE](https://github.com/t0mby/CVE-2022-41082-MASS-RCE)  create time: 2022-10-10T15:45:32Z
 
