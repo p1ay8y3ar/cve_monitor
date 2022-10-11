@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-10 23:36:38.165399  total: 10738 
+ > update time: 2022-10-11 09:33:47.867696  total: 10739 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3129-Laravel Debug mode** : [0nion1/CVE-2021-3129](https://github.com/0nion1/CVE-2021-3129)  create time: 2022-10-11T08:53:05Z
 
 **polkit priv esc: pkexec out of boundary exploit** : [Pixailz/CVE-2021-4034](https://github.com/Pixailz/CVE-2021-4034)  create time: 2022-10-10T22:56:09Z
 
