@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-11 17:39:01.257182  total: 10741 
+ > update time: 2022-10-11 19:29:22.537327  total: 10742 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-40684-RCE-POC Fortinet Vulnerability** : [CarlosV1e1ra/CVE-2022-40684-RCE-POC](https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC)  create time: 2022-10-11T19:12:06Z
 
 **Compled version of CVE-2022-0847 aka Dirty Pipe. Just one shot to root them all :D** : [badboy-sft/Dirty-Pipe-Oneshot](https://github.com/badboy-sft/Dirty-Pipe-Oneshot)  create time: 2022-10-11T17:17:48Z
 
