@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-11 19:29:22.537327  total: 10742 
+ > update time: 2022-10-12 07:37:24.929031  total: 10744 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote shell on CVE-2009-4623** : [MonsempesSamuel/CVE-2009-4623](https://github.com/MonsempesSamuel/CVE-2009-4623)  create time: 2022-10-12T06:47:12Z
+
+**CVE-2022-40684, affecting multiple #Fortinet solutions, is an auth bypass that allows remote attackers to execude code via rest api** : [s0crate7/CVE-2022-40684-POC](https://github.com/s0crate7/CVE-2022-40684-POC)  create time: 2022-10-12T06:53:18Z
 
 **CVE-2022-40684-RCE-POC Fortinet Vulnerability** : [CarlosV1e1ra/CVE-2022-40684-RCE-POC](https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC)  create time: 2022-10-11T19:12:06Z
 
