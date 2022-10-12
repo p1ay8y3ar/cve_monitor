@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-12 09:34:15.107333  total: 10747 
+ > update time: 2022-10-12 12:57:36.947958  total: 10749 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**fortinet auth bypass analyze and exploit** : [Noxus007/CVE-2022-40684-RCE-POC](https://github.com/Noxus007/CVE-2022-40684-RCE-POC)  create time: 2022-10-12T12:30:48Z
+
+**no description** : [6E6L6F/CVE-2022-35914](https://github.com/6E6L6F/CVE-2022-35914)  create time: 2022-10-12T11:42:08Z
 
 **no description** : [r00t4dm/Jenkins-CVE-2015-8103](https://github.com/r00t4dm/Jenkins-CVE-2015-8103)  create time: 2022-10-12T09:10:36Z
 
