@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 10:33:12.552266  total: 10756 
+ > update time: 2022-10-13 11:28:22.688357  total: 10757 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)  create time: 2022-10-13T10:54:06Z
 
 **CVE-2022-40684-RCE-POC Fortinet Vulnerability** : [Car1osVieira/CVE-2022-40684-RCE-POC](https://github.com/Car1osVieira/CVE-2022-40684-RCE-POC)  create time: 2022-10-13T10:27:53Z
 
