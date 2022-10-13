@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 17:48:35.897100  total: 10763 
+ > update time: 2022-10-13 18:40:21.776360  total: 10764 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only)** : [carlosevieira/CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684)  create time: 2022-10-13T18:13:59Z
 
 **Adobe Reader DC Information Leak Exploit** : [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)  create time: 2022-10-13T16:42:10Z
 
