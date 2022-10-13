@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 20:34:02.428237  total: 10765 
+ > update time: 2022-10-13 21:29:48.115626  total: 10767 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager** : [kljunowsky/CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC)  create time: 2022-10-13T21:07:50Z
+
+**CVE-2022-37298 Shinken Monitoring** : [dbyio/cve-2022-37298-shinken](https://github.com/dbyio/cve-2022-37298-shinken)  create time: 2022-10-13T21:07:02Z
 
 **Bash PoC for Fortinet Auth Bypass - CVE-2022-40684** : [Filiplain/Fortinet-PoC-Auth-Bypass](https://github.com/Filiplain/Fortinet-PoC-Auth-Bypass)  create time: 2022-10-13T19:53:17Z
 
