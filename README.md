@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 11:28:22.688357  total: 10757 
+ > update time: 2022-10-13 14:05:56.704340  total: 10759 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-23277 POC to write a webshell to aspnet_client** : [7BitsTeam/CVE-2022-23277](https://github.com/7BitsTeam/CVE-2022-23277)  create time: 2022-10-13T13:35:18Z
+
+**CVE-2022-40684-RCE-POC fortinet auth bypass analyze and exploit** : [Z4r4s/CVE-2022-40684-RCE-POC](https://github.com/Z4r4s/CVE-2022-40684-RCE-POC)  create time: 2022-10-13T13:12:14Z
 
 **no description** : [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)  create time: 2022-10-13T10:54:06Z
 
