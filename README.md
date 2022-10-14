@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 21:29:48.115626  total: 10767 
+ > update time: 2022-10-14 02:48:24.693587  total: 10768 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)  create time: 2022-10-14T01:07:01Z
 
 **Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager** : [kljunowsky/CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC)  create time: 2022-10-13T21:07:50Z
 
