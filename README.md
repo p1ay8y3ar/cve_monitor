@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-14 10:33:37.879114  total: 10772 
+ > update time: 2022-10-14 11:26:51.832593  total: 10774 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mhd108/CVE-2022-40684](https://github.com/mhd108/CVE-2022-40684)  create time: 2022-10-14T11:00:40Z
+
+**no description** : [iveresk/CVE-2022-40684](https://github.com/iveresk/CVE-2022-40684)  create time: 2022-10-14T10:53:50Z
 
 **CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability** : [Carl0sV1e1ra/CVE-2022-40684](https://github.com/Carl0sV1e1ra/CVE-2022-40684)  create time: 2022-10-14T09:57:22Z
 
