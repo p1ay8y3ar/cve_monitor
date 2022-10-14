@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-14 06:16:42.786702  total: 10769 
+ > update time: 2022-10-14 09:33:49.357378  total: 10771 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**automated script for exploiting CVE-2007-2447** : [Aviksaikat/CVE-2007-2447](https://github.com/Aviksaikat/CVE-2007-2447)  create time: 2022-10-14T09:01:29Z
+
+**Multi-threaded Mass adding ssh keys for CVE-2022-40648** : [b3wT/CVE-2022-40648-MASS](https://github.com/b3wT/CVE-2022-40648-MASS)  create time: 2022-10-14T08:51:21Z
 
 **This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability** : [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches)  create time: 2022-10-14T04:58:26Z
 
