@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-14 11:26:51.832593  total: 10774 
+ > update time: 2022-10-14 13:00:17.847411  total: 10776 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41852 Proof of Concept** : [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)  create time: 2022-10-14T12:09:19Z
+
+**CVE-40684-2022** : [hackingyseguridad/cve-40684-2022](https://github.com/hackingyseguridad/cve-40684-2022)  create time: 2022-10-14T12:03:48Z
 
 **no description** : [mhd108/CVE-2022-40684](https://github.com/mhd108/CVE-2022-40684)  create time: 2022-10-14T11:00:40Z
 
