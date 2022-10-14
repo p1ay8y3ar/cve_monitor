@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-14 02:48:24.693587  total: 10768 
+ > update time: 2022-10-14 06:16:42.786702  total: 10769 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability** : [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches)  create time: 2022-10-14T04:58:26Z
 
 **no description** : [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)  create time: 2022-10-14T01:07:01Z
 
