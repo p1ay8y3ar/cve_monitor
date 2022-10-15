@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 15:31:23.842290  total: 10786 
+ > update time: 2022-10-15 16:39:56.696278  total: 10787 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**在受影响的Confluence Server 和Data Center 版本中，存在一个OGNL 注入漏洞，该漏洞允许未经身份验证的攻击者在Confluence Server 或Data Center 服务器上执行任意代码。** : [kailing0220/CVE-2022-26134](https://github.com/kailing0220/CVE-2022-26134)  create time: 2022-10-15T15:56:41Z
 
 **no description** : [yigexioabai/CVE-2021-46422_RCE](https://github.com/yigexioabai/CVE-2021-46422_RCE)  create time: 2022-10-15T15:13:48Z
 
