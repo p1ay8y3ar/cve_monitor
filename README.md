@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 13:48:18.970024  total: 10784 
+ > update time: 2022-10-15 14:28:38.966363  total: 10785 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**FortiPWN exploit for CVE-2022-40684 authentication bypass vulnerability affecting FortiOS, FortiProxy and FortiSwitchManager appliances.** : [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)  create time: 2022-10-15T14:12:01Z
 
 **no description** : [yigexioabai/CVE-2021-46422-RCE](https://github.com/yigexioabai/CVE-2021-46422-RCE)  create time: 2022-10-15T06:01:53Z
 
