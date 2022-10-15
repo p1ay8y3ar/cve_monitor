@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 16:39:56.696278  total: 10787 
+ > update time: 2022-10-15 17:34:58.571673  total: 10790 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)  create time: 2022-10-15T17:06:00Z
+
+**Exploit for CVE-2022-40684 vulnerability** : [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)  create time: 2022-10-15T17:02:49Z
+
+**Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ]** : [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)  create time: 2022-10-15T16:51:25Z
 
 **在受影响的Confluence Server 和Data Center 版本中，存在一个OGNL 注入漏洞，该漏洞允许未经身份验证的攻击者在Confluence Server 或Data Center 服务器上执行任意代码。** : [kailing0220/CVE-2022-26134](https://github.com/kailing0220/CVE-2022-26134)  create time: 2022-10-15T15:56:41Z
 
