@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 12:53:03.728833  total: 10782 
+ > update time: 2022-10-15 13:48:18.970024  total: 10784 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [yigexioabai/CVE-2021-46422-RCE](https://github.com/yigexioabai/CVE-2021-46422-RCE)  create time: 2022-10-15T06:01:53Z
+
+**ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and  a python wrapper to acieve RCE for Proxynotshell** : [backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)  create time: 2022-10-15T13:43:51Z
 
 **CVE-2021-46422漏洞** : [Awei507/CVE-2021-46422](https://github.com/Awei507/CVE-2021-46422)  create time: 2022-10-15T12:46:31Z
 
