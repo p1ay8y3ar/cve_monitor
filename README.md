@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 14:28:56.246631  total: 10807 
+ > update time: 2022-10-16 15:31:28.226274  total: 10808 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Telesquare SDT-CW3B1 1.1.0 版本存在操作系统命令注入漏洞。远程攻击者可利用该漏洞在无需任何身份验证的情况下执行操作系统命令。** : [kailing0220/CVE-2021-46422](https://github.com/kailing0220/CVE-2021-46422)  create time: 2022-10-16T15:24:45Z
 
 **no description** : [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)  create time: 2022-10-16T13:51:36Z
 
