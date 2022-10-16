@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 11:25:45.327815  total: 10802 
+ > update time: 2022-10-16 12:53:59.764809  total: 10805 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46422poc** : [yyqxi/CVE-2021-46422](https://github.com/yyqxi/CVE-2021-46422)  create time: 2022-10-16T11:34:26Z
+
+**CVE-2022-26134poc** : [yyqxi/CVE-2022-26134](https://github.com/yyqxi/CVE-2022-26134)  create time: 2022-10-16T11:48:42Z
+
+**CVE-2022-26134** : [latings/CVE-2022-26134](https://github.com/latings/CVE-2022-26134)  create time: 2022-10-16T11:37:33Z
 
 **韩国的无线路由器 os cmd 注入** : [kelemaoya/CVE-2021-46422](https://github.com/kelemaoya/CVE-2021-46422)  create time: 2022-10-16T11:01:58Z
 
