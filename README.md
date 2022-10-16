@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 13:47:41.847137  total: 10806 
+ > update time: 2022-10-16 14:28:56.246631  total: 10807 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)  create time: 2022-10-16T13:51:36Z
 
 **漏洞检测** : [polerstar/CVE-2021-46422-poc](https://github.com/polerstar/CVE-2021-46422-poc)  create time: 2022-10-16T13:00:59Z
 
