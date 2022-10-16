@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 10:32:01.797273  total: 10797 
+ > update time: 2022-10-16 11:25:45.327815  total: 10802 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**韩国的无线路由器 os cmd 注入** : [kelemaoya/CVE-2021-46422](https://github.com/kelemaoya/CVE-2021-46422)  create time: 2022-10-16T11:01:58Z
+
+**cve-2021-46422** : [CJ-0107/cve-2021-46422](https://github.com/CJ-0107/cve-2021-46422)  create time: 2022-10-16T10:52:27Z
+
+**cve-2022-26134** : [CJ-0107/cve-2022-26134](https://github.com/CJ-0107/cve-2022-26134)  create time: 2022-10-16T10:55:12Z
+
+**Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。** : [kelemaoya/CVE-2022-26134](https://github.com/kelemaoya/CVE-2022-26134)  create time: 2022-10-16T10:44:51Z
+
+**no description** : [RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-10-16T10:31:40Z
 
 **CVE-2021-46422** : [latings/CVE-2021-46422](https://github.com/latings/CVE-2021-46422)  create time: 2022-10-16T09:40:29Z
 
