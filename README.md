@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 07:31:34.586141  total: 10793 
+ > update time: 2022-10-16 10:32:01.797273  total: 10797 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46422** : [latings/CVE-2021-46422](https://github.com/latings/CVE-2021-46422)  create time: 2022-10-16T09:40:29Z
+
+**no description** : [RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-10-16T10:21:03Z
+
+**no description** : [RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-10-16T10:20:29Z
+
+**Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。** : [kelemaoya/CVE-2022-26134](https://github.com/kelemaoya/CVE-2022-26134)  create time: 2022-10-16T10:01:18Z
 
 **SDT-CW3B1韩国的无线路由器 os cmd 注入PoC** : [ZAxyr/CVE-2021-46422](https://github.com/ZAxyr/CVE-2021-46422)  create time: 2022-10-16T06:52:57Z
 
