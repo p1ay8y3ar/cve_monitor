@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 02:48:19.536263  total: 10792 
+ > update time: 2022-10-16 07:31:34.586141  total: 10793 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SDT-CW3B1韩国的无线路由器 os cmd 注入PoC** : [ZAxyr/CVE-2021-46422](https://github.com/ZAxyr/CVE-2021-46422)  create time: 2022-10-16T06:52:57Z
 
 **Capricornus（摩羯座）一款基于wxpython的GUI图形化漏洞检测工具，包含了基础的备忘录，base64加解密，批量漏洞和单项漏洞检测功能。目前包含CVE_2022_35914、CVE_2022_36804等nday，1day以及常见漏洞的检测** : [qiwentaidi/Capricornus](https://github.com/qiwentaidi/Capricornus)  create time: 2022-10-16T02:10:16Z
 
