@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 23:34:57.038167  total: 10812 
+ > update time: 2022-10-17 05:09:18.619224  total: 10813 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Capricornus（摩羯座）一款基于wxpython的GUI图形化漏洞检测工具，包含了基础的备忘录，base64加解密，批量漏洞和单项漏洞检测功能。目前包含CVE_2022_35914、CVE_2022_36804等nday，1day以及常见漏洞的检测** : [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)  create time: 2022-10-16T08:08:31Z
 
 **Linux Kernel 3.10.0-514.21.2.el7.x86_64 / 3.10.0-514.26.1.el7.x86_64 (CentOS 7) - SUID Position Independent Executable 'PIE' Local Privilege Escalation** : [sxlmnwb/CVE-2017-1000253](https://github.com/sxlmnwb/CVE-2017-1000253)  create time: 2022-10-16T23:08:16Z
 
