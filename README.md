@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-17 19:38:10.396725  total: 10830 
+ > update time: 2022-10-17 22:32:27.812121  total: 10831 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability)** : [sammwyy/CVE-2022-33980-POC](https://github.com/sammwyy/CVE-2022-33980-POC)  create time: 2022-10-17T21:39:03Z
 
 **Proof of Concept for CVE-2022-42889** : [SeanWrightSec/CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC)  create time: 2022-10-17T18:50:36Z
 
