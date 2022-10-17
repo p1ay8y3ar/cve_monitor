@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-17 08:46:25.568256  total: 10819 
+ > update time: 2022-10-17 09:42:04.730516  total: 10822 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Ruby on Rails是一个 Web 应用程序框架,是一个相对较新的 Web 应用程序框架，构建在 Ruby 语言之上。这个漏洞主要是由于Ruby on Rails使用了指定参数的render file来渲染应用之外的视图，我们可以通过修改访问某控制器的请求包，通过“…/…/…/…/”来达到路径穿越的目的，然后再通过“{{”来进行模板查询路径的闭合，使得所要访问的文件被当做外部模板来解析。** : [kailing0220/CVE-2019-5418](https://github.com/kailing0220/CVE-2019-5418)  create time: 2022-10-17T09:04:43Z
+
+**no description** : [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)  create time: 2022-10-17T09:22:57Z
+
+**no description** : [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)  create time: 2022-10-17T08:49:36Z
 
 **CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool** : [n0npro/CVE-2022-3236-MASS-RCE](https://github.com/n0npro/CVE-2022-3236-MASS-RCE)  create time: 2022-10-17T08:27:48Z
 
