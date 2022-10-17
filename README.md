@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-17 05:09:18.619224  total: 10813 
+ > update time: 2022-10-17 07:01:05.132269  total: 10815 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**批量检测CVE-2021-46422 RCE漏洞** : [xanszZZ/SDT_CW3B1_rce](https://github.com/xanszZZ/SDT_CW3B1_rce)  create time: 2022-10-16T09:23:56Z
+
+**批量检测CVE-2022-26134 RCE漏洞** : [xanszZZ/ATLASSIAN-Confluence_rce](https://github.com/xanszZZ/ATLASSIAN-Confluence_rce)  create time: 2022-10-16T09:19:56Z
 
 **Capricornus（摩羯座）一款基于wxpython的GUI图形化漏洞检测工具，包含了基础的备忘录，base64加解密，批量漏洞和单项漏洞检测功能。目前包含CVE_2022_35914、CVE_2022_36804等nday，1day以及常见漏洞的检测** : [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)  create time: 2022-10-16T08:08:31Z
 
