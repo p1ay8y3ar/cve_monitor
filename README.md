@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 10:35:55.125282  total: 10836 
+ > update time: 2022-10-18 14:08:13.719668  total: 10837 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-42889 Text4Shell CVE-2022-42889 affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.** : [ClickCyber/cve-2022-42889](https://github.com/ClickCyber/cve-2022-42889)  create time: 2022-10-18T13:53:55Z
 
 **Dockerized POC for CVE-2022-42889 Text4Shell** : [karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)  create time: 2022-10-18T09:58:00Z
 
