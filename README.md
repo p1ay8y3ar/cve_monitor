@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 20:33:50.125844  total: 10840 
+ > update time: 2022-10-18 23:36:56.329097  total: 10841 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple application that shows how to exploit the CVE-2022-42889 vulnerability** : [korteke/CVE-2022-42889-POC](https://github.com/korteke/CVE-2022-42889-POC)  create time: 2022-10-18T23:15:40Z
 
 **CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell** : [Goss1TheDog/CVE-2022-42889-RCE-POC](https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC)  create time: 2022-10-18T19:37:40Z
 
