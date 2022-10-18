@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 16:46:13.592904  total: 10839 
+ > update time: 2022-10-18 20:33:50.125844  total: 10840 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell** : [Goss1TheDog/CVE-2022-42889-RCE-POC](https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC)  create time: 2022-10-18T19:37:40Z
 
 **CVE-2014-3704 aka Drupalgeddon - Form-Cache Injection Method** : [AleDiBen/Drupalgeddon](https://github.com/AleDiBen/Drupalgeddon)  create time: 2022-10-18T16:00:17Z
 
