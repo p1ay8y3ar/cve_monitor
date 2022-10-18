@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 07:47:38.955176  total: 10832 
+ > update time: 2022-10-18 08:44:27.798022  total: 10833 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889.** : [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat)  create time: 2022-10-18T08:22:55Z
 
 **Exploit of RealVNC VNC Server** : [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)  create time: 2022-10-18T06:31:21Z
 
