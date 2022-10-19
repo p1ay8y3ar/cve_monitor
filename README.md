@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 20:33:32.773386  total: 10851 
+ > update time: 2022-10-19 22:33:57.326756  total: 10853 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit of College Website v1.0 CMS - SQL injection** : [lus33rr/CVE-2022-27414](https://github.com/lus33rr/CVE-2022-27414)  create time: 2022-10-19T22:17:47Z
+
+**Utilities for exploiting vulnerability CVE-2022-40684 (FortiOS / FortiProxy / FortiSwitchManager - Authentication bypass on administrative interface).** : [und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)  create time: 2022-10-19T22:07:24Z
 
 **A fully automated, accurate, and extensive scanner for finding text4shell RCE CVE-2022-42889** : [securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)  create time: 2022-10-19T20:14:22Z
 
