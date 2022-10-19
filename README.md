@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 07:51:44.280428  total: 10843 
+ > update time: 2022-10-19 11:28:48.906076  total: 10845 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit updated to use Python 3.** : [TheKickPuncher/CVE-2020-0688-Python3](https://github.com/TheKickPuncher/CVE-2020-0688-Python3)  create time: 2022-10-19T10:36:10Z
+
+**no description** : [nidhi7598/-expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/-expat_2.1.0_CVE-2022-40674)  create time: 2022-10-19T11:15:29Z
 
 **no description** : [eunomie/cve-2022-42889-check](https://github.com/eunomie/cve-2022-42889-check)  create time: 2022-10-19T06:54:57Z
 
