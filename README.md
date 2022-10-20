@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-20 21:29:37.907094  total: 10865 
+ > update time: 2022-10-20 22:32:03.730352  total: 10867 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-41082-MASS-SCANNER](https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)  create time: 2022-10-20T22:22:48Z
+
+**no description** : [trhacknon/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)  create time: 2022-10-20T22:14:04Z
 
 **no description** : [trhacknon/CVE-2022-29303-Exploit](https://github.com/trhacknon/CVE-2022-29303-Exploit)  create time: 2022-10-20T21:05:28Z
 
