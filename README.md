@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-20 20:33:39.289474  total: 10862 
+ > update time: 2022-10-20 21:29:37.907094  total: 10865 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-29303-Exploit](https://github.com/trhacknon/CVE-2022-29303-Exploit)  create time: 2022-10-20T21:05:28Z
+
+**POC OF CVE-2022-21970** : [Malwareman007/CVE-2022-21970](https://github.com/Malwareman007/CVE-2022-21970)  create time: 2022-10-20T20:55:28Z
+
+**no description** : [trhacknon/CVE-2022-22947](https://github.com/trhacknon/CVE-2022-22947)  create time: 2022-10-20T20:35:52Z
 
 **Proof of Concept Appliction for testing CVE-2022-42889** : [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)  create time: 2022-10-20T18:07:25Z
 
