@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-20 19:34:00.047776  total: 10861 
+ > update time: 2022-10-20 20:33:39.289474  total: 10862 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept Appliction for testing CVE-2022-42889** : [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)  create time: 2022-10-20T18:07:25Z
 
 **Automated Exploit for CVE-2017-9841 (eval-stdin.php vulnerable file)** : [mileticluka1/eval-stdin](https://github.com/mileticluka1/eval-stdin)  create time: 2022-10-20T19:05:12Z
 
