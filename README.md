@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-20 04:28:24.809829  total: 10856 
+ > update time: 2022-10-20 13:01:20.862248  total: 10857 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)  create time: 2022-10-20T12:53:41Z
 
 **the metasploit script(POC) about CVE-2022-41040. Microsoft Exchange are vulnerable to a server-side request forgery (SSRF) attack. An authenticated attacker can use the vulnerability to elevate privileges.** : [TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell)  create time: 2022-10-20T03:11:03Z
 
