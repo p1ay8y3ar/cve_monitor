@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-22 18:36:25.083122  total: 10884 
+ > update time: 2022-10-22 22:29:20.541635  total: 10885 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Internal network scanner through Gluu IAM blind ssrf** : [Qeisi/CVE-2022-36663-PoC](https://github.com/Qeisi/CVE-2022-36663-PoC)  create time: 2022-10-22T21:55:33Z
 
 **writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell** : [stat1st1c/CVE-2022-41082-RCE-POC](https://github.com/stat1st1c/CVE-2022-41082-RCE-POC)  create time: 2022-10-22T18:18:23Z
 
