@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-23 07:32:05.402394  total: 10887 
+ > update time: 2022-10-23 08:36:46.660791  total: 10888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Text4Shell (CVE-2022-42889) The affected Apache Commons Text versions 1.5 through 1.9 and it has been patched in version 1.10. Apache Commons Text is a Java library described as "a library focused on algorithms working on strings".** : [0xmaximus/Apache-Commons-Text---CVE-2022-42889](https://github.com/0xmaximus/Apache-Commons-Text---CVE-2022-42889)  create time: 2022-10-23T08:33:02Z
 
 **CVE-2014-8731 - PHPMemcachedAdmin RCE - Proof of Concept** : [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)  create time: 2022-10-17T12:39:20Z
 
