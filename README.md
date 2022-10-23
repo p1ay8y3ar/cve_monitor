@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-22 22:29:20.541635  total: 10885 
+ > update time: 2022-10-23 06:41:56.391720  total: 10886 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability.** : [akshayithape-devops/CVE-2022-42889-POC](https://github.com/akshayithape-devops/CVE-2022-42889-POC)  create time: 2022-10-23T05:48:48Z
 
 **Internal network scanner through Gluu IAM blind ssrf** : [Qeisi/CVE-2022-36663-PoC](https://github.com/Qeisi/CVE-2022-36663-PoC)  create time: 2022-10-22T21:55:33Z
 
