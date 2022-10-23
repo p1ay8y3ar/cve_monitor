@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-23 06:41:56.391720  total: 10886 
+ > update time: 2022-10-23 07:32:05.402394  total: 10887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2014-8731 - PHPMemcachedAdmin RCE - Proof of Concept** : [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)  create time: 2022-10-17T12:39:20Z
 
 **A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability.** : [akshayithape-devops/CVE-2022-42889-POC](https://github.com/akshayithape-devops/CVE-2022-42889-POC)  create time: 2022-10-23T05:48:48Z
 
