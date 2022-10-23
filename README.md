@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-23 09:31:13.756546  total: 10890 
+ > update time: 2022-10-23 10:32:10.487801  total: 10891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability Scanner for CVE-2022-42889 (Text4Shell)** : [smileostrich/Text4Shell-Scanner](https://github.com/smileostrich/Text4Shell-Scanner)  create time: 2022-10-23T09:45:41Z
 
 **A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438** : [WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)  create time: 2022-10-23T06:31:12Z
 
