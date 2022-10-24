@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-24 14:11:50.813613  total: 10899 
+ > update time: 2022-10-24 15:36:18.361834  total: 10904 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Stored Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-35501](https://github.com/afine-com/CVE-2022-35501)  create time: 2022-10-24T15:02:43Z
+
+**Stored Cross-site Scripting (XSS) in leave comment functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-35500](https://github.com/afine-com/CVE-2022-35500)  create time: 2022-10-24T14:52:41Z
+
+**DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field** : [uisvit/CVE-2022-32548-RCE-MASS](https://github.com/uisvit/CVE-2022-32548-RCE-MASS)  create time: 2022-10-24T14:20:49Z
+
+**Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)  create time: 2022-10-24T13:49:17Z
+
+**Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-36432](https://github.com/afine-com/CVE-2022-36432)  create time: 2022-10-24T13:36:09Z
 
 **CVE-2018-6066 using VBA** : [DISREL/Ring0VBA](https://github.com/DISREL/Ring0VBA)  create time: 2022-10-24T13:59:12Z
 
