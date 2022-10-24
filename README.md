@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-23 16:41:35.132543  total: 10897 
+ > update time: 2022-10-24 09:42:03.207006  total: 10898 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and  a python wrapper to acieve RCE for Proxynotshell via EXCHANGE POWERSHELL are included inside.** : [vib3zz/CVE-2022-41082-RCE-POC](https://github.com/vib3zz/CVE-2022-41082-RCE-POC)  create time: 2022-10-24T09:04:15Z
 
 **no description** : [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)  create time: 2022-10-23T15:58:18Z
 
