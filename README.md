@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 14:12:29.829319  total: 10916 
+ > update time: 2022-10-25 15:36:42.202314  total: 10917 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script was created to automate addressing the vulnerability described in CVE-2021-26414 (https://support.microsoft.com/en-us/topic/kb5004442-manage-changes-for-windows-dcom-server-security-feature-bypass-cve-2021-26414-f1400b52-c141-43d2-941e-37ed901c769c), adds two regkeys under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole\AppCompa** : [Nels2/dcom_10036_Solver](https://github.com/Nels2/dcom_10036_Solver)  create time: 2022-10-25T15:24:03Z
 
 **no description** : [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)  create time: 2022-10-25T13:15:20Z
 
