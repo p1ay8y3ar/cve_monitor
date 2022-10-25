@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 13:02:52.066028  total: 10913 
+ > update time: 2022-10-25 14:12:29.829319  total: 10916 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)  create time: 2022-10-25T13:15:20Z
+
+**no description** : [Vulnmachines/text4shell-CVE-2022-42889](https://github.com/Vulnmachines/text4shell-CVE-2022-42889)  create time: 2022-10-25T13:11:24Z
+
+**no description** : [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)  create time: 2022-10-25T12:59:31Z
 
 **cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read** : [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)  create time: 2022-10-25T12:24:02Z
 
