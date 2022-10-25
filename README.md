@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 02:44:55.067511  total: 10908 
+ > update time: 2022-10-25 07:04:41.612737  total: 10910 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)  create time: 2022-10-25T06:47:20Z
+
+**CobaltStrike <= 4.7.1 RCE** : [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)  create time: 2022-10-14T11:46:01Z
 
 **no description** : [ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)  create time: 2022-10-25T00:55:12Z
 
