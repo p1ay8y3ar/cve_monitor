@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 07:04:41.612737  total: 10910 
+ > update time: 2022-10-25 13:02:52.066028  total: 10913 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read** : [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)  create time: 2022-10-25T12:24:02Z
+
+**cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE** : [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)  create time: 2022-10-25T12:29:54Z
+
+**cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE** : [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)  create time: 2022-10-25T12:15:31Z
 
 **no description** : [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)  create time: 2022-10-25T06:47:20Z
 
