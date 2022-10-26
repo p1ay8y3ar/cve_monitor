@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-26 11:24:19.667170  total: 10923 
+ > update time: 2022-10-26 15:29:50.965440  total: 10924 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**pdf_info <= 0.5.3 OS Command Injection** : [affix/CVE-2022-36231](https://github.com/affix/CVE-2022-36231)  create time: 2022-10-26T14:51:57Z
 
 **zVulnerabilityScanner Version 2022 / 2023 is the best CVE Scanner for Apache and Ngix** : [uFrenchDev/zVulnerabilityScanner-POC-Azuriom](https://github.com/uFrenchDev/zVulnerabilityScanner-POC-Azuriom)  create time: 2022-10-26T11:10:50Z
 
