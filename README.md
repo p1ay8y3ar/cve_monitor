@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-26 07:28:04.314949  total: 10921 
+ > update time: 2022-10-26 11:24:19.667170  total: 10923 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**zVulnerabilityScanner Version 2022 / 2023 is the best CVE Scanner for Apache and Ngix** : [uFrenchDev/zVulnerabilityScanner-POC-Azuriom](https://github.com/uFrenchDev/zVulnerabilityScanner-POC-Azuriom)  create time: 2022-10-26T11:10:50Z
+
+**zVulnerabilityScanner Version 2022 / 2023. Is the best CVE Scanner for Apache and Ngix** : [uFrenchDev/zVulnerabilityScanner](https://github.com/uFrenchDev/zVulnerabilityScanner)  create time: 2022-10-26T11:09:36Z
 
 **PoC for a vulnerability that I found in Apple Shortcuts. Fixed in iOS 16.1 and macOS 13 Ventura.** : [iCMDgithub/CVE-2022-32938](https://github.com/iCMDgithub/CVE-2022-32938)  create time: 2022-10-26T06:34:39Z
 
