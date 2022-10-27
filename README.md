@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-27 15:29:54.314831  total: 10925 
+ > update time: 2022-10-27 18:37:23.202831  total: 10926 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit Fortigate - CVE-2022-40684** : [gustavorobertux/gotigate](https://github.com/gustavorobertux/gotigate)  create time: 2022-10-27T17:30:08Z
 
 **An authentication bypass using an alternate path or channel in Fortinet product** : [TaroballzChen/CVE-2022-40684-metasploit-scanner](https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner)  create time: 2022-10-27T15:11:27Z
 
