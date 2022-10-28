@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-28 06:34:33.026945  total: 10931 
+ > update time: 2022-10-28 09:29:25.586068  total: 10932 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet.** : [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)  create time: 2022-10-28T08:53:12Z
 
 **no description** : [an1p3lg5/CVE-2020-26233](https://github.com/an1p3lg5/CVE-2020-26233)  create time: 2022-10-28T05:56:45Z
 
