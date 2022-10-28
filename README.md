@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-28 09:29:25.586068  total: 10932 
+ > update time: 2022-10-28 10:31:05.656977  total: 10933 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bitrix Vulnerability CVE-2022-43959** : [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)  create time: 2022-10-28T08:52:17Z
 
 **Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet.** : [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)  create time: 2022-10-28T08:53:12Z
 
