@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-29 04:02:37.363627  total: 10935 
+ > update time: 2022-10-29 11:22:43.330136  total: 10936 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Not the author of this script, reposting as original repo link is broken** : [itwestend/cve_2022_26134](https://github.com/itwestend/cve_2022_26134)  create time: 2022-10-29T11:15:21Z
 
 **Spring Cloud Gateway远程代码执行** : [savior-only/CVE-2022-22947](https://github.com/savior-only/CVE-2022-22947)  create time: 2022-10-29T03:28:55Z
 
