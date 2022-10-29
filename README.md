@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-28 16:34:56.020955  total: 10934 
+ > update time: 2022-10-29 04:02:37.363627  total: 10935 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway远程代码执行** : [savior-only/CVE-2022-22947](https://github.com/savior-only/CVE-2022-22947)  create time: 2022-10-29T03:28:55Z
 
 **Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field** : [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection)  create time: 2021-08-15T02:15:54Z
 
