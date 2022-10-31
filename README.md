@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-30 20:28:22.068391  total: 10943 
+ > update time: 2022-10-31 07:26:54.604710  total: 10944 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**y the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions:** : [babyshen/routeros-CVE-2018-14847-bytheway](https://github.com/babyshen/routeros-CVE-2018-14847-bytheway)  create time: 2022-10-31T06:38:11Z
 
 **Proof-of-Concept exploit (SQLI BookingPress  before 1.0.11)** : [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)  create time: 2022-10-30T19:32:15Z
 
