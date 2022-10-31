@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-31 10:31:15.322755  total: 10945 
+ > update time: 2022-10-31 15:30:09.188728  total: 10949 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**KLiK-SocialMediaWebsite v1.0.1 has SQL Injection Vulnerabilities at profile.php** : [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)  create time: 2022-09-28T09:19:53Z
+
+**Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the comment.** : [bypazs/CVE-2022-42097](https://github.com/bypazs/CVE-2022-42097)  create time: 2022-09-27T12:33:10Z
+
+**Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Post content.** : [bypazs/CVE-2022-42096](https://github.com/bypazs/CVE-2022-42096)  create time: 2022-09-27T12:28:13Z
+
+**Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Card content.** : [bypazs/CVE-2022-42094](https://github.com/bypazs/CVE-2022-42094)  create time: 2022-09-27T11:56:30Z
 
 **{VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144)** : [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)  create time: 2022-10-31T10:27:35Z
 
