@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-31 07:26:54.604710  total: 10944 
+ > update time: 2022-10-31 10:31:15.322755  total: 10945 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**{VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144)** : [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)  create time: 2022-10-31T10:27:35Z
 
 **y the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions:** : [babyshen/routeros-CVE-2018-14847-bytheway](https://github.com/babyshen/routeros-CVE-2018-14847-bytheway)  create time: 2022-10-31T06:38:11Z
 
