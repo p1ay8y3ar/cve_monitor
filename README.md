@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-31 15:30:09.188728  total: 10949 
+ > update time: 2022-10-31 20:30:12.781189  total: 10950 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [roycewilliams/openssl-nov-1-critical-cve-2022-tracking](https://github.com/roycewilliams/openssl-nov-1-critical-cve-2022-tracking)  create time: 2022-10-31T18:37:09Z
 
 **KLiK-SocialMediaWebsite v1.0.1 has SQL Injection Vulnerabilities at profile.php** : [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)  create time: 2022-09-28T09:19:53Z
 
