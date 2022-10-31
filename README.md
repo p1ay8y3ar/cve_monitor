@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-31 20:30:12.781189  total: 10950 
+ > update time: 2022-10-31 22:29:29.620858  total: 10951 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-10-31T22:08:05Z
 
 **no description** : [roycewilliams/openssl-nov-1-critical-cve-2022-tracking](https://github.com/roycewilliams/openssl-nov-1-critical-cve-2022-tracking)  create time: 2022-10-31T18:37:09Z
 
