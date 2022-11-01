@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-01 06:38:48.035986  total: 10954 
+ > update time: 2022-11-01 09:33:57.049674  total: 10955 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**python编写的apache路径穿越poc&exp** : [aqiao-jashell/py-CVE-2021-41773](https://github.com/aqiao-jashell/py-CVE-2021-41773)  create time: 2022-11-01T09:17:03Z
 
 **apache路径穿越漏洞poc&exp** : [aqiao-jashell/CVE-2021-41773](https://github.com/aqiao-jashell/CVE-2021-41773)  create time: 2022-11-01T05:58:59Z
 
