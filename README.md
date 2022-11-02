@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 02:28:34.203114  total: 10963 
+ > update time: 2022-11-02 10:30:56.500847  total: 10964 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SpookySSL CVE-2022-3602 SSLv3 Scanner for Windows, Linux, macOS** : [alicangnll/SpookySSL-Scanner](https://github.com/alicangnll/SpookySSL-Scanner)  create time: 2022-11-02T09:29:04Z
 
 **no description** : [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)  create time: 2022-11-02T01:39:49Z
 
