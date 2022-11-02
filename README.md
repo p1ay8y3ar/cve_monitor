@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 10:30:56.500847  total: 10964 
+ > update time: 2022-11-02 14:32:27.609187  total: 10965 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POCsuite与goland实现华为HG532路由器命令注入CVE-2017-17215 POC** : [ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215](https://github.com/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215)  create time: 2022-11-02T14:07:08Z
 
 **SpookySSL CVE-2022-3602 SSLv3 Scanner for Windows, Linux, macOS** : [alicangnll/SpookySSL-Scanner](https://github.com/alicangnll/SpookySSL-Scanner)  create time: 2022-11-02T09:29:04Z
 
