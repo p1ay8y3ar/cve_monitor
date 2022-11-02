@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 19:22:48.012044  total: 10968 
+ > update time: 2022-11-02 22:27:02.773416  total: 10969 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-42889 Blind-RCE Nuclei Template** : [Hack4rLIFE/CVE-2022-42889](https://github.com/Hack4rLIFE/CVE-2022-42889)  create time: 2022-11-02T21:49:55Z
 
 **One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html** : [Bdenneu/CVE-2022-33079](https://github.com/Bdenneu/CVE-2022-33079)  create time: 2022-11-02T18:38:01Z
 
