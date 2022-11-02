@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 14:32:27.609187  total: 10965 
+ > update time: 2022-11-02 15:30:20.183957  total: 10966 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3** : [NCSC-NL/OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022)  create time: 2022-10-28T09:51:41Z
 
 **POCsuite与goland实现华为HG532路由器命令注入CVE-2017-17215 POC** : [ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215](https://github.com/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215)  create time: 2022-11-02T14:07:08Z
 
