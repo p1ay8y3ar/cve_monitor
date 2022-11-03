@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-03 13:52:15.198477  total: 10978 
+ > update time: 2022-11-03 21:22:19.280272  total: 10979 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-8813 - RCE through graph_realtime.php in Cacti 1.2.8** : [p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime](https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime)  create time: 2022-09-30T11:23:52Z
 
 **利用sudo提权，只针对cnetos7** : [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7)  create time: 2022-11-03T13:10:23Z
 
