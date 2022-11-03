@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 22:27:02.773416  total: 10969 
+ > update time: 2022-11-03 02:09:49.186733  total: 10971 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for LFI related to CVE-2021-27905** : [pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC)  create time: 2022-11-03T00:41:16Z
+
+**no description** : [Undefind404/cve_2021_41773](https://github.com/Undefind404/cve_2021_41773)  create time: 2022-11-02T09:31:31Z
 
 **CVE-2022-42889 Blind-RCE Nuclei Template** : [Hack4rLIFE/CVE-2022-42889](https://github.com/Hack4rLIFE/CVE-2022-42889)  create time: 2022-11-02T21:49:55Z
 
