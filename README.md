@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-03 02:09:49.186733  total: 10971 
+ > update time: 2022-11-03 09:27:12.926502  total: 10974 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Privilege Escalation in Teachers Record Management System using CodeIgnitor** : [RashidKhanPathan/CVE-2022-41446](https://github.com/RashidKhanPathan/CVE-2022-41446)  create time: 2022-11-03T09:10:24Z
+
+**Cross Site Scripting in Teacher's Record Management System using CodeIgnitor** : [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)  create time: 2022-11-03T09:06:39Z
+
+**A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692** : [SpindleSec/cve-2022-31692-demo](https://github.com/SpindleSec/cve-2022-31692-demo)  create time: 2022-11-03T08:35:20Z
 
 **POC for LFI related to CVE-2021-27905** : [pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC)  create time: 2022-11-03T00:41:16Z
 
