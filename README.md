@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-03 09:27:12.926502  total: 10974 
+ > update time: 2022-11-03 10:29:16.312014  total: 10976 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**poc of CVE-2022-33679** : [Blyth0He/CVE-2022-33679](https://github.com/Blyth0He/CVE-2022-33679)  create time: 2022-11-03T09:52:31Z
+
+**no description** : [Satheesh575555/linux-4.19.72_CVE-2022-36946](https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946)  create time: 2022-11-03T09:49:23Z
 
 **Privilege Escalation in Teachers Record Management System using CodeIgnitor** : [RashidKhanPathan/CVE-2022-41446](https://github.com/RashidKhanPathan/CVE-2022-41446)  create time: 2022-11-03T09:10:24Z
 
