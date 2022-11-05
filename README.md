@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-04 20:30:25.930271  total: 10981 
+ > update time: 2022-11-05 08:31:15.431832  total: 10982 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept** : [sunnyvale-it/CVE-2022-42889-PoC](https://github.com/sunnyvale-it/CVE-2022-42889-PoC)  create time: 2022-11-05T07:32:51Z
 
 **Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)** : [cryxnet/CVE-2022-42889-PoC](https://github.com/cryxnet/CVE-2022-42889-PoC)  create time: 2022-11-04T19:26:23Z
 
