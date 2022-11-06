@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-06 04:36:15.501681  total: 10987 
+ > update time: 2022-11-06 06:30:27.248691  total: 10988 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated RCE in GLPI 10.0.2** : [Gabriel-Lima232/CVE-2022-35914](https://github.com/Gabriel-Lima232/CVE-2022-35914)  create time: 2022-11-06T06:23:14Z
 
 **A single script controller based on CVE-2021-29447** : [akhils911dev/blind-xxe-controller-CVE-2021-29447](https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447)  create time: 2022-11-06T04:26:20Z
 
