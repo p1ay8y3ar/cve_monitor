@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-08 16:40:33.011902  total: 11001 
+ > update time: 2022-11-08 17:32:08.728631  total: 11002 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819)  create time: 2022-11-08T17:01:41Z
 
 **DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka "Log4Shell"** : [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228)  create time: 2022-11-08T15:29:42Z
 
