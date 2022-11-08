@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-08 20:29:49.729228  total: 11003 
+ > update time: 2022-11-08 23:31:57.232281  total: 11004 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6** : [corelight/CVE-2022-3602](https://github.com/corelight/CVE-2022-3602)  create time: 2022-11-03T03:19:52Z
 
 **no description** : [sai-reddy2021/CVE-2021-1675-LPE](https://github.com/sai-reddy2021/CVE-2021-1675-LPE)  create time: 2022-11-08T19:44:52Z
 
