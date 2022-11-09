@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-09 06:39:37.568944  total: 11007 
+ > update time: 2022-11-09 09:26:15.467577  total: 11008 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple tool to enumerate users in gitlab** : [ipsBruno/CVE-2022-1162](https://github.com/ipsBruno/CVE-2022-1162)  create time: 2022-11-09T08:14:28Z
 
 **no description** : [jeyaseelans86/new-CVE-2018-6574](https://github.com/jeyaseelans86/new-CVE-2018-6574)  create time: 2022-11-09T06:35:25Z
 
