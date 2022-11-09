@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-09 13:55:13.130307  total: 11013 
+ > update time: 2022-11-09 14:29:56.629454  total: 11014 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Lenovo Diagnostics Driver EoP - Arbitrary R/W** : [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)  create time: 2022-11-09T14:15:30Z
 
 **no description** : [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)  create time: 2022-11-09T13:36:40Z
 
