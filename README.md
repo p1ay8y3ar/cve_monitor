@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-10 02:09:08.866446  total: 11015 
+ > update time: 2022-11-10 07:24:55.322220  total: 11016 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Exploit Tool For CVE-2021-25641.** : [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641)  create time: 2022-11-10T06:33:54Z
 
 **CVE-2022-39395 valid pay** : [harry1osborn/CVE-2022-39395](https://github.com/harry1osborn/CVE-2022-39395)  create time: 2022-11-10T01:42:03Z
 
