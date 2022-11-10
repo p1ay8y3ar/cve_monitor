@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-10 08:40:03.511049  total: 11017 
+ > update time: 2022-11-10 10:29:03.380480  total: 11018 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cross Site Scripting in WonderCMS** : [maikroservice/CVE-2022-43332](https://github.com/maikroservice/CVE-2022-43332)  create time: 2022-11-10T10:06:14Z
 
 **no description** : [nanopathi/Linux-4.19.72_CVE-2022-1012](https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012)  create time: 2022-11-10T08:30:12Z
 
