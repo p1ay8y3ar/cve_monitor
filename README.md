@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-10 16:36:48.997399  total: 11019 
+ > update time: 2022-11-10 18:32:31.868401  total: 11020 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Implementation of CVE-2022-30190 in C** : [mattjmillner/CVE-Smackdown](https://github.com/mattjmillner/CVE-Smackdown)  create time: 2022-11-10T18:15:57Z
 
 **no description** : [Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)  create time: 2022-11-10T15:34:58Z
 
