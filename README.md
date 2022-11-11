@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-10 18:32:31.868401  total: 11020 
+ > update time: 2022-11-11 05:31:26.079951  total: 11021 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215** : [gigaryte/cve-2022-31898](https://github.com/gigaryte/cve-2022-31898)  create time: 2022-11-11T05:11:14Z
 
 **Implementation of CVE-2022-30190 in C** : [mattjmillner/CVE-Smackdown](https://github.com/mattjmillner/CVE-Smackdown)  create time: 2022-11-10T18:15:57Z
 
