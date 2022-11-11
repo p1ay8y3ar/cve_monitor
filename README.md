@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-11 13:51:17.513426  total: 11029 
+ > update time: 2022-11-11 16:36:05.206777  total: 11031 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is an OpenSSL Vulnerability Detection Script for CVE-2022-2274** : [EkamSinghWalia/OpenSSL-Vulnerability-Detection-Script](https://github.com/EkamSinghWalia/OpenSSL-Vulnerability-Detection-Script)  create time: 2022-11-11T16:27:45Z
+
+**A Shodan hunter for CVE-2022-40140** : [ipsBruno/CVE-2022-40140-SCANNER](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)  create time: 2022-11-11T16:25:29Z
 
 **cve-2022-5** : [mike-develop-root/cve-2022-5](https://github.com/mike-develop-root/cve-2022-5)  create time: 2022-11-11T13:47:00Z
 
