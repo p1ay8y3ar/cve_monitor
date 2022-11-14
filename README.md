@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-14 08:35:17.716011  total: 11037 
+ > update time: 2022-11-14 15:29:46.318943  total: 11040 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE** : [caique-garbim/CVE-2020-9484_Exploit](https://github.com/caique-garbim/CVE-2020-9484_Exploit)  create time: 2022-11-14T14:48:30Z
+
+**ManageEngine - RCE - Includes mass exploiter Mirai / QBot - x86** : [OneByt3/CVE-2022-35405](https://github.com/OneByt3/CVE-2022-35405)  create time: 2022-11-14T15:08:52Z
+
+**ConnectWise - RCE - Included mass exploiter for mirai / qbot - x86 bots** : [OneByt3/CVE-2022-36537](https://github.com/OneByt3/CVE-2022-36537)  create time: 2022-11-14T15:01:57Z
 
 **Microsoft Exchange Server Remote Code Execution Vulnerability.** : [notareaperbutDR34P3r/http-vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082)  create time: 2022-11-14T08:31:16Z
 
