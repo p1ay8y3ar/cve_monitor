@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-15 02:01:21.011030  total: 11044 
+ > update time: 2022-11-15 03:23:17.403041  total: 11045 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Golang program to automate the execution of CVE-2021-29447** : [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447)  create time: 2022-11-15T03:15:59Z
 
 **Social WarFare Plugin (<=3.5.2) Remote Code Execution** : [caique-garbim/CVE-2019-9978_Exploit](https://github.com/caique-garbim/CVE-2019-9978_Exploit)  create time: 2022-11-15T01:22:38Z
 
