@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-14 18:32:23.947053  total: 11043 
+ > update time: 2022-11-15 02:01:21.011030  total: 11044 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Social WarFare Plugin (<=3.5.2) Remote Code Execution** : [caique-garbim/CVE-2019-9978_Exploit](https://github.com/caique-garbim/CVE-2019-9978_Exploit)  create time: 2022-11-15T01:22:38Z
 
 **no description** : [gbrsh/CVE-2022-29464](https://github.com/gbrsh/CVE-2022-29464)  create time: 2022-11-14T18:22:41Z
 
