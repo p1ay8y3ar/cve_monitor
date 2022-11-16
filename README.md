@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-15 23:26:28.856543  total: 11051 
+ > update time: 2022-11-16 04:33:28.517034  total: 11052 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.** : [Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits)  create time: 2022-11-16T03:44:14Z
 
 **FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026)** : [icebreack/CVE-2022-24637](https://github.com/icebreack/CVE-2022-24637)  create time: 2022-11-15T22:39:49Z
 
