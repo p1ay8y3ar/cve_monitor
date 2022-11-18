@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-18 18:32:20.309056  total: 11069 
+ > update time: 2022-11-18 19:21:01.083531  total: 11070 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mastering CVE-2021-3166** : [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)  create time: 2022-11-18T18:28:57Z
 
 **Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50** : [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013)  create time: 2022-11-18T17:53:46Z
 
