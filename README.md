@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-18 12:44:36.437005  total: 11066 
+ > update time: 2022-11-18 13:42:53.801818  total: 11068 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)  create time: 2022-11-18T12:46:10Z
+
+**Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC** : [Mr-xn/CVE-2022-40127](https://github.com/Mr-xn/CVE-2022-40127)  create time: 2022-11-18T13:19:23Z
 
 **no description** : [Adamanti1/CVE-2021-41773-Vulnerable-service](https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service)  create time: 2022-11-18T12:23:04Z
 
