@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-18 03:46:38.103152  total: 11064 
+ > update time: 2022-11-18 07:23:57.819369  total: 11065 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0441 - MasterStudy LMS 2.7.6** : [SDragon1205/cve-2022-0441](https://github.com/SDragon1205/cve-2022-0441)  create time: 2022-11-18T07:02:29Z
 
 **wordpress docker** : [CAOlvchonger/CVE-2016-10033](https://github.com/CAOlvchonger/CVE-2016-10033)  create time: 2022-11-18T02:07:39Z
 
