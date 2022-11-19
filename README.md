@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-18 19:21:01.083531  total: 11070 
+ > update time: 2022-11-19 06:30:17.758126  total: 11071 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15** : [xgm0129/mai-lang-chain](https://github.com/xgm0129/mai-lang-chain)  create time: 2022-11-19T05:51:38Z
 
 **Mastering CVE-2021-3166** : [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)  create time: 2022-11-18T18:28:57Z
 
