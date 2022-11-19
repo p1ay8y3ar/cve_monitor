@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-19 06:30:17.758126  total: 11071 
+ > update time: 2022-11-19 11:20:28.984532  total: 11072 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cross Site Scripting on sanitization-management-system** : [Urban4/CVE-2022-3992](https://github.com/Urban4/CVE-2022-3992)  create time: 2022-11-19T10:36:37Z
 
 **CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15** : [xgm0129/mai-lang-chain](https://github.com/xgm0129/mai-lang-chain)  create time: 2022-11-19T05:51:38Z
 
