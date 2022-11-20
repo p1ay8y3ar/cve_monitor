@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-19 18:29:32.051582  total: 11073 
+ > update time: 2022-11-20 02:05:56.680147  total: 11074 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Resources required for building Pluralsight CVE-2022-0847 lab** : [Turzum/ps-lab-cve-2022-0847](https://github.com/Turzum/ps-lab-cve-2022-0847)  create time: 2022-11-16T16:57:14Z
 
 **A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.** : [0xAbbarhSF/FollinaXploit](https://github.com/0xAbbarhSF/FollinaXploit)  create time: 2022-11-19T18:09:47Z
 
