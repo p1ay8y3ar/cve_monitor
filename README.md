@@ -1,9 +1,29 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-20 17:22:16.777203  total: 11080 
+ > update time: 2022-11-20 18:29:29.961816  total: 11090 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port.** : [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)  create time: 2022-11-20T17:39:48Z
+
+**CSRF attack leads to Reset ONU to Factory Default** : [huzaifahussain98/CVE-2020-23592](https://github.com/huzaifahussain98/CVE-2020-23592)  create time: 2022-11-20T17:38:21Z
+
+**ARBITAR FILE UPLOAD LEADS TO "delete every file for Denial of Service (using 'rm -rf *.*' in the code), reverse connection (using '.asp' webshell), backdoor , Escalation of Privileges, etc".** : [huzaifahussain98/CVE-2020-23591](https://github.com/huzaifahussain98/CVE-2020-23591)  create time: 2022-11-20T17:38:06Z
+
+**CSRF leads to change the password for "WLAN SSID"** : [huzaifahussain98/CVE-2020-23590](https://github.com/huzaifahussain98/CVE-2020-23590)  create time: 2022-11-20T17:37:49Z
+
+**Denial of Service through CSRF** : [huzaifahussain98/CVE-2020-23589](https://github.com/huzaifahussain98/CVE-2020-23589)  create time: 2022-11-20T17:37:29Z
+
+**CSRF attack leads to "Enable or Disable Ports" and to "Change port numbers** : [huzaifahussain98/CVE-2020-23588](https://github.com/huzaifahussain98/CVE-2020-23588)  create time: 2022-11-20T17:37:14Z
+
+**Men in the middle attack is possible through CSRF** : [huzaifahussain98/CVE-2020-23587](https://github.com/huzaifahussain98/CVE-2020-23587)  create time: 2022-11-20T17:37:03Z
+
+**CSRF allows to Add Network Traffic Control Type Rule** : [huzaifahussain98/CVE-2020-23586](https://github.com/huzaifahussain98/CVE-2020-23586)  create time: 2022-11-20T17:36:51Z
+
+**cross-site request forgery (CSRF) attack on "OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028".** : [huzaifahussain98/CVE-2020-23585](https://github.com/huzaifahussain98/CVE-2020-23585)  create time: 2022-11-20T17:27:09Z
+
+**Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing** : [EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717)  create time: 2022-11-20T18:01:34Z
 
 **REMOTE CODE EXECUTION** : [huzaifahussain98/CVE-2020-23584](https://github.com/huzaifahussain98/CVE-2020-23584)  create time: 2022-11-20T17:17:37Z
 
