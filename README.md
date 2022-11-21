@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-21 02:02:25.030609  total: 11093 
+ > update time: 2022-11-21 07:23:42.390334  total: 11094 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)  create time: 2022-11-21T07:10:12Z
 
 **修改版CVE-2022-0847** : [qwert419/linux-](https://github.com/qwert419/linux-)  create time: 2022-11-21T01:21:35Z
 
