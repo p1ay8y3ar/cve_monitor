@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-22 15:26:56.935669  total: 11102 
+ > update time: 2022-11-22 16:35:27.764591  total: 11107 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tinhtrumtd/ANM_CVE_2019_0708](https://github.com/tinhtrumtd/ANM_CVE_2019_0708)  create time: 2022-11-22T16:14:57Z
+
+**Apache HTTP-Server 2.4.49-2.4.50 Path Traversal & Remote Code Execution PoC (CVE-2021-41773 & CVE-2021-42013)** : [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)  create time: 2022-11-22T14:09:18Z
+
+**If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi** : [RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-11-22T16:02:49Z
+
+**Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a** : [RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-11-22T15:46:00Z
+
+**Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s** : [RCSVVVVVOLk/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/RCSVVVVVOLk/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-11-22T15:44:51Z
 
 **no description** : [tinhtrumtd/CDANM_CVE_2019_0708](https://github.com/tinhtrumtd/CDANM_CVE_2019_0708)  create time: 2022-11-22T15:02:59Z
 
