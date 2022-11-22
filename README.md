@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-22 16:35:27.764591  total: 11107 
+ > update time: 2022-11-22 19:21:27.033714  total: 11108 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [grails/GSSC-CVE-2022-41923](https://github.com/grails/GSSC-CVE-2022-41923)  create time: 2022-11-22T17:24:51Z
 
 **no description** : [tinhtrumtd/ANM_CVE_2019_0708](https://github.com/tinhtrumtd/ANM_CVE_2019_0708)  create time: 2022-11-22T16:14:57Z
 
