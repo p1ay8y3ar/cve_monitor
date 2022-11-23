@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-23 14:21:35.175481  total: 11112 
+ > update time: 2022-11-23 17:20:50.964277  total: 11114 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mattysaints/CVE-2018-14371](https://github.com/mattysaints/CVE-2018-14371)  create time: 2022-11-23T16:47:09Z
+
+**An arbitrary file upload vulnerability in the Update Branding Settings component of Snipe-IT v6.0.2 allows attackers to execute arbitrary code via a crafted file.** : [bypazs/CVE-2022-32060](https://github.com/bypazs/CVE-2022-32060)  create time: 2022-11-23T16:20:24Z
 
 **CVE-2022-39425 PoC** : [bob11vrdp/CVE-2022-39425](https://github.com/bob11vrdp/CVE-2022-39425)  create time: 2022-11-23T14:03:43Z
 
