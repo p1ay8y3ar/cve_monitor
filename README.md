@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-24 20:24:30.695765  total: 11118 
+ > update time: 2022-11-24 21:21:29.565266  total: 11119 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application** : [HackinKraken/CVE-2022-2650](https://github.com/HackinKraken/CVE-2022-2650)  create time: 2022-11-24T21:01:49Z
 
 **perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile.** : [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)  create time: 2022-11-24T20:00:16Z
 
