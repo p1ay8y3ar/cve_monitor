@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-25 16:32:12.705451  total: 11122 
+ > update time: 2022-11-25 19:19:58.404559  total: 11123 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool** : [Adynervi/CVE-2022-3236-MASS-RCE](https://github.com/Adynervi/CVE-2022-3236-MASS-RCE)  create time: 2022-11-25T18:43:37Z
 
 **no description** : [dr6817/CVE-2022-22963](https://github.com/dr6817/CVE-2022-22963)  create time: 2022-11-25T15:31:19Z
 
