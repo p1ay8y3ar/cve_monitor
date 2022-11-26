@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-26 09:22:31.728500  total: 11124 
+ > update time: 2022-11-26 22:22:28.755807  total: 11125 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tchize/CVE-2022-22971](https://github.com/tchize/CVE-2022-22971)  create time: 2022-11-26T22:04:38Z
 
 **ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit** : [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258)  create time: 2022-11-26T09:00:10Z
 
