@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-26 23:24:02.111455  total: 11126 
+ > update time: 2022-11-27 19:19:28.096173  total: 11127 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DOM-based Reflected Cross-Site Scripting (XSS) vulnerability in Elementor's Elementor Website Builder plugin <= 3.5.5 versions.** : [Chocapikk/CVE-2022-29455](https://github.com/Chocapikk/CVE-2022-29455)  create time: 2022-11-27T18:45:15Z
 
 **no description** : [trhacknon/CVE-2022-29455-XSS](https://github.com/trhacknon/CVE-2022-29455-XSS)  create time: 2022-11-26T23:02:01Z
 
