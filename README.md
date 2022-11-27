@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-27 19:19:28.096173  total: 11127 
+ > update time: 2022-11-27 23:24:26.308534  total: 11129 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**By passing an overly large string when invoking nethack, it is possible to corrupt memory. jnethack and falconseye are also prone to this vulnerability.** : [snowcra5h/CVE-2003-0358](https://github.com/snowcra5h/CVE-2003-0358)  create time: 2022-11-27T22:45:43Z
+
+**no description** : [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)  create time: 2022-11-27T22:32:15Z
 
 **DOM-based Reflected Cross-Site Scripting (XSS) vulnerability in Elementor's Elementor Website Builder plugin <= 3.5.5 versions.** : [Chocapikk/CVE-2022-29455](https://github.com/Chocapikk/CVE-2022-29455)  create time: 2022-11-27T18:45:15Z
 
