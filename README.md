@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-27 23:24:26.308534  total: 11129 
+ > update time: 2022-11-28 04:28:51.226983  total: 11130 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-33558 POC** : [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)  create time: 2022-11-28T03:50:10Z
 
 **By passing an overly large string when invoking nethack, it is possible to corrupt memory. jnethack and falconseye are also prone to this vulnerability.** : [snowcra5h/CVE-2003-0358](https://github.com/snowcra5h/CVE-2003-0358)  create time: 2022-11-27T22:45:43Z
 
