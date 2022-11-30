@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-30 13:37:24.462813  total: 11147 
+ > update time: 2022-11-30 15:26:15.768668  total: 11148 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a test repo to see what automated scrapers/APIs will collect data on this repo, despite it being utterly meaningless info** : [NathanScottGithub/CVE-2022-41049-POC](https://github.com/NathanScottGithub/CVE-2022-41049-POC)  create time: 2022-11-30T15:19:43Z
 
 **可以利用這個版本本做CVE-2022-39197 RCE POC，以及其他的漏洞測試，請在解壓前關閉防禦病毒軟件，當然會被查殺** : [Trinity-SYT-SECURITY/coablt_strike_4.5](https://github.com/Trinity-SYT-SECURITY/coablt_strike_4.5)  create time: 2022-11-30T13:16:43Z
 
