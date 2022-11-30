@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-30 01:50:06.630159  total: 11144 
+ > update time: 2022-11-30 04:29:55.648469  total: 11145 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [revanmalang/CVE-2022-1388](https://github.com/revanmalang/CVE-2022-1388)  create time: 2022-11-30T04:06:56Z
 
 **no description** : [NetJBS/-CVE-2020-0796-RCE](https://github.com/NetJBS/-CVE-2020-0796-RCE)  create time: 2022-11-30T00:40:45Z
 
