@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-30 19:20:55.750873  total: 11150 
+ > update time: 2022-11-30 23:24:44.570100  total: 11151 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Validation of Arbitrary File Read Vulnerabilities in Dell OpenManage Server Administrator (OMSA) - CVE-2016-4004, CVE-2021-21514 and CVE-2020-5377.** : [und3sc0n0c1d0/AFR-in-OMSA](https://github.com/und3sc0n0c1d0/AFR-in-OMSA)  create time: 2022-11-30T22:34:58Z
 
 **Reproducer PoC for FreeBSD dhclient heap-based buffer overflow vulnerability when parsing DHCP option 119 (CVE-2020-7461)** : [0xkol/freebsd-dhclient-poc](https://github.com/0xkol/freebsd-dhclient-poc)  create time: 2022-11-30T19:03:57Z
 
