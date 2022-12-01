@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-01 09:23:54.566744  total: 11152 
+ > update time: 2022-12-01 17:22:29.076963  total: 11153 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Zeek CVE-2022-24491 detector.** : [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491)  create time: 2022-04-13T12:40:57Z
 
 **no description** : [lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities](https://github.com/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities)  create time: 2022-12-01T08:48:28Z
 
