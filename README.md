@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-04 02:48:54.602001  total: 11167 
+ > update time: 2022-12-04 03:24:09.410210  total: 11168 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24112_POC** : [Acczdy/CVE-2022-24112_POC](https://github.com/Acczdy/CVE-2022-24112_POC)  create time: 2022-12-03T14:31:28Z
 
 **All details about CVE-2022-43097** : [nibin-m/CVE-2022-43097](https://github.com/nibin-m/CVE-2022-43097)  create time: 2022-12-04T01:59:51Z
 
