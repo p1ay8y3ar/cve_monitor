@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-05 02:47:45.316837  total: 11172 
+ > update time: 2022-12-05 12:41:19.156818  total: 11174 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)  create time: 2022-12-05T12:24:10Z
+
+**no description** : [sdfbjaksff/CVE-2022-2022](https://github.com/sdfbjaksff/CVE-2022-2022)  create time: 2022-12-05T11:25:16Z
 
 **no description** : [HandsomeCat00/Spring-CVE-2010-1622](https://github.com/HandsomeCat00/Spring-CVE-2010-1622)  create time: 2022-12-05T02:28:09Z
 
