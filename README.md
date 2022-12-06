@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-06 17:20:53.958211  total: 11182 
+ > update time: 2022-12-06 21:20:44.368362  total: 11183 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Local File Inclusion in WordPress Plugin Site Editor 1.1.1** : [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)  create time: 2022-12-06T20:23:57Z
 
 **no description** : [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)  create time: 2022-12-06T16:59:56Z
 
