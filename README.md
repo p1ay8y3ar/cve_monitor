@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-10 08:26:50.552698  total: 11200 
+ > update time: 2022-12-10 13:25:32.380338  total: 11201 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repo reproduce xss attack on django 4.0.1 (see CVE-2022-22818)** : [Prikalel/django-xss-example](https://github.com/Prikalel/django-xss-example)  create time: 2022-12-10T12:38:08Z
 
 **no description** : [JoshTech1000/CVE-Details_2022-Analysis](https://github.com/JoshTech1000/CVE-Details_2022-Analysis)  create time: 2022-12-10T08:02:51Z
 
