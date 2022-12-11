@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-11 14:20:40.040812  total: 11204 
+ > update time: 2022-12-11 16:29:28.396353  total: 11207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi** : [junyeong01/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/junyeong01/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-12-11T16:04:23Z
+
+**We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow** : [junyeong01/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/junyeong01/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-12-11T15:55:25Z
+
+**Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s** : [junyeong01/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/junyeong01/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-12-11T15:48:18Z
 
 **PoC for Blind RCE for CVE-2022-25765 (Tested in HTB - Precious Machine)** : [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)  create time: 2022-12-11T14:02:49Z
 
