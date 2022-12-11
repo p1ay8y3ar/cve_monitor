@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-10 20:23:22.906002  total: 11203 
+ > update time: 2022-12-11 14:20:40.040812  total: 11204 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for Blind RCE for CVE-2022-25765 (Tested in HTB - Precious Machine)** : [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)  create time: 2022-12-11T14:02:49Z
 
 **no description** : [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)  create time: 2022-12-10T20:00:22Z
 
