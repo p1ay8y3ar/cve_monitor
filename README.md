@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-12 14:21:47.414112  total: 11214 
+ > update time: 2022-12-12 17:21:18.366242  total: 11216 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-16846** : [hamza-boudouche/projet-secu](https://github.com/hamza-boudouche/projet-secu)  create time: 2022-12-12T16:29:36Z
+
+**no description** : [devengpk/CVE-2022-22965](https://github.com/devengpk/CVE-2022-22965)  create time: 2022-12-12T16:30:05Z
 
 **Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router.** : [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)  create time: 2022-12-12T13:45:21Z
 
