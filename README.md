@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-13 10:25:29.454317  total: 11224 
+ > update time: 2022-12-13 13:30:40.915483  total: 11225 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022-41717** : [domdom82/h2conn-exploit](https://github.com/domdom82/h2conn-exploit)  create time: 2022-12-13T12:48:48Z
 
 **Most common used CVE's by APT, legitimate RAT and other tools used by adversary (  cve-2019-11510  / cve-2019-19781  /  cve-2020-5902  / cve-2021-1497  /  cve-2021-20090  /  cve-2021-22006  / cve-2021-22205  / cve-2021-26084  / cve-2021-26855  / cve-2021-26857  / cve-2021–26857 / cve-2021–26858 / cve-2021–26865 ... )** : [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)  create time: 2022-12-13T08:41:44Z
 
