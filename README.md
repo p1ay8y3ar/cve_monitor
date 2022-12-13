@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-12 17:21:18.366242  total: 11216 
+ > update time: 2022-12-13 03:31:26.776396  total: 11217 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Administrator-Xorex/CVE-2022-25845-Server](https://github.com/Administrator-Xorex/CVE-2022-25845-Server)  create time: 2022-12-13T03:02:27Z
 
 **CVE-2020-16846** : [hamza-boudouche/projet-secu](https://github.com/hamza-boudouche/projet-secu)  create time: 2022-12-12T16:29:36Z
 
