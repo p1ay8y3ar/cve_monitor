@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-14 13:29:44.159094  total: 11233 
+ > update time: 2022-12-14 14:21:23.520906  total: 11234 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782** : [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782)  create time: 2022-12-01T19:30:27Z
 
 **CVE-2019-9053 exploit ported to python3** : [pedrojosenavasperez/CVE-2019-9053-Python3](https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3)  create time: 2022-12-14T12:50:54Z
 
