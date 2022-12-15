@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-15 02:54:03.116797  total: 11238 
+ > update time: 2022-12-15 05:21:08.437933  total: 11239 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-0796-利用工具** : [TweatherQ/CVE-2020-0796](https://github.com/TweatherQ/CVE-2020-0796)  create time: 2022-12-15T04:55:56Z
 
 **💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC** : [motikan2010/CVE-2020-5398](https://github.com/motikan2010/CVE-2020-5398)  create time: 2020-01-17T05:35:01Z
 
