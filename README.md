@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-16 06:26:48.445244  total: 11245 
+ > update time: 2022-12-16 08:27:03.206906  total: 11246 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)  create time: 2022-12-16T07:54:45Z
 
 **Foxit PDF Reader Remote Code Execution Exploit** : [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)  create time: 2022-12-02T18:52:20Z
 
