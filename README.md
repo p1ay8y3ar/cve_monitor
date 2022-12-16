@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-16 08:27:03.206906  total: 11246 
+ > update time: 2022-12-16 11:18:20.977661  total: 11247 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Chương trình theo dõi, giám sát lưu lượng mạng được viết bằng Python, nó sẽ đưa ra cảnh báo khi phát hiện tấn công CVE-2017-0144** : [quynhold/DetectCVE20170144Attack](https://github.com/quynhold/DetectCVE20170144Attack)  create time: 2022-12-16T11:10:13Z
 
 **no description** : [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)  create time: 2022-12-16T07:54:45Z
 
