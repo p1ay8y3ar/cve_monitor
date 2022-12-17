@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-17 11:17:39.777975  total: 11251 
+ > update time: 2022-12-17 17:19:16.991633  total: 11252 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.** : [zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo)  create time: 2022-12-17T16:45:24Z
 
 **Drupal CVE-2018-7600 RCE Pseudo-Shell PoC** : [r0lh/CVE-2018-7600](https://github.com/r0lh/CVE-2018-7600)  create time: 2022-12-17T11:11:47Z
 
