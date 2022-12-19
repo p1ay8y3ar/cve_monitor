@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-18 19:17:11.789054  total: 11254 
+ > update time: 2022-12-19 05:20:55.156859  total: 11255 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhihcl/external_expat_2.1.0_CVE-2022-43680](https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680)  create time: 2022-12-19T05:09:12Z
 
 **CVE 2022-46169** : [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)  create time: 2022-12-18T18:28:52Z
 
