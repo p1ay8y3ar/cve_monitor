@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-19 07:20:55.058161  total: 11256 
+ > update time: 2022-12-19 08:27:12.440215  total: 11257 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2016-2338 Use-after-free nday full exploit** : [SpiralBL0CK/CVE-2016-2338-nday](https://github.com/SpiralBL0CK/CVE-2016-2338-nday)  create time: 2022-12-19T07:34:25Z
 
 **The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054).** : [Exploitables/CVE-2020-17382](https://github.com/Exploitables/CVE-2020-17382)  create time: 2022-12-19T07:02:18Z
 
