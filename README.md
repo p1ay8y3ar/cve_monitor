@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-20 06:28:14.452465  total: 11263 
+ > update time: 2022-12-20 08:27:47.508313  total: 11264 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)  create time: 2022-12-20T08:17:05Z
 
 **no description** : [SURENKUMAR-0212/CVE-2022-0123](https://github.com/SURENKUMAR-0212/CVE-2022-0123)  create time: 2022-12-19T12:54:43Z
 
