@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-20 18:26:51.241382  total: 11269 
+ > update time: 2022-12-20 19:18:32.846992  total: 11270 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability** : [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)  create time: 2022-12-20T18:53:00Z
 
 **no description** : [devengpk/CVE-2022-36804](https://github.com/devengpk/CVE-2022-36804)  create time: 2022-12-20T17:55:19Z
 
