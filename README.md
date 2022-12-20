@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-19 16:32:00.034666  total: 11260 
+ > update time: 2022-12-20 01:39:47.832824  total: 11261 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**🐍 Python Exploit for CVE-2021-45010** : [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)  create time: 2022-12-20T00:47:30Z
 
 **no description** : [Sabotase-Syndicate-Team/CVE-2017-5487.exploit](https://github.com/Sabotase-Syndicate-Team/CVE-2017-5487.exploit)  create time: 2022-12-19T15:50:55Z
 
