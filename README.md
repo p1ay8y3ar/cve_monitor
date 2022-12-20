@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-20 10:24:59.114414  total: 11265 
+ > update time: 2022-12-20 12:39:22.484835  total: 11266 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [kiks7/CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)  create time: 2022-12-20T12:16:38Z
 
 **The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.** : [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)  create time: 2022-12-20T09:37:08Z
 
