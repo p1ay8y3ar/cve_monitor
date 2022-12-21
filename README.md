@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-21 08:27:45.651143  total: 11275 
+ > update time: 2022-12-21 14:20:37.021850  total: 11277 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [cristiandrami/pentesterlab_CVE-2018-6574](https://github.com/cristiandrami/pentesterlab_CVE-2018-6574)  create time: 2022-12-21T13:51:01Z
+
+**no description** : [kinderscsaa/cve-2022-45511](https://github.com/kinderscsaa/cve-2022-45511)  create time: 2022-12-21T14:06:20Z
 
 **no description** : [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)  create time: 2022-12-21T07:28:12Z
 
