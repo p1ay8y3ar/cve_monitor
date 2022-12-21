@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-21 17:20:33.460968  total: 11282 
+ > update time: 2022-12-21 18:26:28.234537  total: 11284 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a** : [Karvoid/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/Karvoid/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-12-21T18:16:51Z
+
+**Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s** : [Karvoid/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/Karvoid/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-12-21T18:15:56Z
 
 **CVE-2022-0847** : [DataFox/CVE-2022-0847](https://github.com/DataFox/CVE-2022-0847)  create time: 2022-12-21T16:34:18Z
 
