@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-21 02:40:42.408056  total: 11273 
+ > update time: 2022-12-21 08:27:45.651143  total: 11275 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)  create time: 2022-12-21T07:28:12Z
+
+**CVE-2022-2602** : [LukeGix/CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602)  create time: 2022-11-18T18:53:27Z
 
 **maccms  admin+  xss attacks** : [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)  create time: 2022-12-21T01:40:11Z
 
