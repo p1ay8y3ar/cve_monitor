@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-22 12:39:06.027932  total: 11386 
+ > update time: 2022-12-22 15:24:03.683937  total: 11389 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-47896 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-47896](https://github.com/Live-Hack-CVE/CVE-2022-47896)  create time: 2022-12-22T14:34:00Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-47895 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)  create time: 2022-12-22T14:33:34Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-45347 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)  create time: 2022-12-22T14:33:32Z
 
 **This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-36625 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2020-36625](https://github.com/Live-Hack-CVE/CVE-2020-36625)  create time: 2022-12-22T12:16:31Z
 
